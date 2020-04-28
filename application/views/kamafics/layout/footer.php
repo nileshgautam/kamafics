@@ -7,16 +7,14 @@
          <div class="container">
              <div class="row">
 
-                 <div class="col-lg-5 col-md-12 col-sm-12">
+                 <div class="col-lg-4 col-md-12 col-sm-12">
                      <div class="footer-h-left">
                          <div class="widget widget_about">
-                             <div class="logo-footer clearfix">
-                                 <a href="index.html"><img src="<?php echo base_url('assets/') ?>images/logo-light.png" alt=""></a>
-                             </div>
-                             <p>We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.
+                             
+                            
 
-                             </p>
                          </div>
+                         <h3 class="widget-title">Contact Details</h3>
                          <div class="widget recent-posts-entry">
                              <ul class="widget_address">
                                  <li><i class="fa fa-map-marker"></i><?php echo ADD ?>
@@ -37,31 +35,27 @@
 
                  </div>
 
-                 <div class="col-lg-7 col-md-12 col-sm-12">
+                 <div class="col-lg-8 col-md-12 col-sm-12">
                      <div class="row footer-h-right">
-                         <div class="col-lg-5 col-md-4">
-                             <div class="widget widget_services">
-                                 <h3 class="widget-title">Useful links</h3>
-                                 <ul>
-                                     <li><a href="<?php echo base_url('about-us') ?>">About</a></li>
-                                     <!-- <li><a href="Faq.html">FAQ</a></li>
-                                     <li><a href="team-single.html">Our Team </a></li> -->
-                                     <!-- <li><a href="services-1.html">Services </a></li> -->
-                                 </ul>
+                         <div class="col-lg-7 col-md-4">
+                             <div class="widget widget_about">
+                                 <h3 class="widget-title">About us</h3>
+                                 <p>We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.</p>
                              </div>
+
                          </div>
 
-                         <div class="col-lg-7 col-md-8">
+                         <div class="col-lg-5 col-md-8">
                              <div class="widget widget_services">
                                  <h3 class="widget-title">Our Services</h3>
                                  <ul>
-                                     <li><a href="<?php echo base_url('legal') ?>">Legal
+                                     <li><a href="<?php echo base_url('service/legal') ?>">Legal
                                          </a><a href="#"></a></li>
-                                     <li><a href="<?php echo base_url('people-operations') ?>">People Operations
-                                         </a><a href="<?php echo base_url('joint-ventures') ?>">Joint Ventures
+                                     <li><a href="<?php echo base_url('service/people-operations') ?>">People Operations
+                                         </a><a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
                                          </a></li>
-                                     <li><a href="<?php echo base_url('technology-transfer') ?>">Technology Transfer
-                                         </a><a href="<?php echo base_url('india-market-entry')?>">India market entry</a></li>
+                                     <li><a href="<?php echo base_url('service/technology-transfer') ?>">Technology Transfer
+                                         </a><a href="<?php echo base_url('service/india-market-entry') ?>">India market entry</a></li>
 
                                  </ul>
                              </div>
@@ -92,10 +86,10 @@
      <div class="footer-bottom">
          <div class="container">
              <div class="wt-footer-bot-left d-flex justify-content-between">
-                 <span class="copyrights-text">Copyright © 2020 <span class="site-text-primary">kamafics</span></span>
+                 <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">www.gennextit.com</a></span>
                  <ul class="copyrights-nav">
-                     <li><a href="javascript:void(0);">Terms &amp; Condition</a></li>
-                     <li><a href="javascript:void(0);">Privacy Policy</a></li>
+                     <li><a href="<?php echo base_url('term-condition') ?>">Terms &amp; Condition</a></li>
+                     <li><a href="<?php echo base_url('privacy-policy') ?>">Privacy Policy</a></li>
                      <li><a href="<?php echo base_url('contact-us') ?>">Contact Us</a></li>
                  </ul>
              </div>
@@ -121,7 +115,7 @@
                          </div>
                      </div>
                      <div class="col-lg-8 col-md-8">
-                         <form class="cons-contact-form" method="post" action="#">
+                         <form class="contact-form" method="post">
                              <div class="m-b30">
                                  <!-- TITLE START -->
                                  <h2 class="m-b30">Get In Touch</h2>
@@ -135,13 +129,13 @@
 
                                      <div class="col-md-6 col-sm-6">
                                          <div class="form-group">
-                                             <input name="email" type="text" class="form-control" required placeholder="Email">
+                                             <input name="email" type="email" class="form-control" required placeholder="Email">
                                          </div>
                                      </div>
 
                                      <div class="col-md-6 col-sm-6">
                                          <div class="form-group">
-                                             <input name="phone" type="text" class="form-control" required placeholder="Phone">
+                                             <input name="phone" type="phone" class="form-control" required placeholder="Phone">
                                          </div>
                                      </div>
 
@@ -169,7 +163,7 @@
                              <h2 class="m-b30">Contact Info</h2>
                              <!-- TITLE END -->
                              <div class="row">
-                                 <div class="col-lg-4 col-md-12">
+                                 <div class="col-lg-12 col-md-12">
                                      <div class="wt-icon-box-wraper left icon-shake-outer">
                                          <div class="icon-content">
                                              <h4 class="m-t0">Phone number</h4>
@@ -179,7 +173,11 @@
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-md-12">
+                                
+                             </div>
+                             <div class="row">
+                             
+                                 <div class="col-lg-12 col-md-12">
                                      <div class="wt-icon-box-wraper left icon-shake-outer">
                                          <div class="icon-content">
                                              <h4 class="m-t0">Email address</h4>
@@ -188,7 +186,10 @@
                                          </div>
                                      </div>
                                  </div>
-                                 <div class="col-lg-4 col-md-12">
+                                 
+                             </div>
+                             <div class="row">
+                                 <div class="col-lg-12 col-md-12">
                                      <div class="wt-icon-box-wraper left icon-shake-outer">
                                          <div class="icon-content">
                                              <h4 class="m-t0">Address info</h4>
@@ -271,11 +272,21 @@
  <!-- REVOLUTION SLIDER SCRIPT FILES -->
  <script src="<?php echo base_url('assets/') ?>js/rev-script-1.js"></script>
 
+ <!-- custom -->
+
+ <script src="<?php echo base_url('assets/') ?>custom.js"></script>
+ <script src="<?php echo base_url('assets/') ?>validation.js"></script>
+ <!-- notify -->
+ <script src="<?php echo base_url('assets/notify/') ?>bootstrap-notify.min.js"></script>
+ <script src="<?php echo base_url('assets/notify/') ?>MyScriptLibrary.js"></script>
+
+
+
  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_8C7p0Ws2gUu7wo0b6pK9Qu7LuzX2iWY&amp;libraries=places&amp;"></script><!-- GOOGLE MAP -->
  <script src="<?php echo base_url('assets/') ?>js/map.script.js"></script>
 
  <!-- STYLE SWITCHER  ======= -->
- <div class="styleswitcher">
+ <!-- <div class="styleswitcher">
 
      <div class="switcher-btn-bx">
          <a class="switch-btn">
@@ -302,7 +313,7 @@
          </ul>
 
      </div>
- </div>
+ </div> -->
  <!-- STYLE SWITCHER END ==== -->
 
  </body>

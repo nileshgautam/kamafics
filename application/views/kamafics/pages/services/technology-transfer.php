@@ -46,7 +46,7 @@
 
                     <div class="row d-flex justify-content-center">
 
-                        <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                        <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
 

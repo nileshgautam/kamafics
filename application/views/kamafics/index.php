@@ -182,12 +182,11 @@
                 <div class="welcome-section-top bg-white p-tb80">
                     <div class="container">
                         <div class="row">
-
                             <div class="col-lg-6 col-md-12">
                                 <div class="img-colarge">
                                     <div class="colarge-1"><img src="<?php echo base_url('assets/images/colarge/s1.jpg') ?>" alt="" class="slide-righ"></div>
                                     <div class="since-year-outer">
-                                        <div class="since-year"><span>Since</span><strong>2015</strong></div>
+                                        <div class="since-year"><span>Since</span><strong>1987</strong></div>
                                     </div>
                                 </div>
                             </div>
@@ -213,8 +212,8 @@
                                     <p>First generation entrepreneur and the driving force behind KMAFICS and its diversified business portfolio. His contribution spanning more than 30 years in various fields of the manufacturing and the service sector, has been immeasurable particularly in the areas of operations, finance and senior management functions such as strategic planning and investment decisions. He has played a vital role in steering the growth of various companies to greater heights. </p>
 
                                     <div class="welcom-to-section-bottom d-flex justify-content-between">
-                                        <div class="welcom-btn-position"><a href="about-1.html" class="site-button-secondry site-btn-effect">More About</a></div>
-                                        <div class="welcom-sign-pic"><img src="<?php echo base_url('assets/images/sign.png') ?>" alt=""></div>
+                                        <div class="welcom-btn-position"><a href="<?php echo base_url('about-us')?>" class="site-button-secondry site-btn-effect">More About</a></div>
+                                        <!-- <div class="welcom-sign-pic"><img src="<?php echo base_url('assets/images/sign.png') ?>" alt=""></div> -->
                                         <div class="welcom-sign-info"><strong>Ajaya Khullar
                                             </strong><span>(Founder, Director )</span></div>
                                     </div>
@@ -247,7 +246,7 @@
                                         Capitalize on low hanging fruit to identify a ballpark value added is activity to beta test.
                                         Override the igital divide with additional click throughs from fruit to identify a ballpark value added.
                                     </p>
-                                    <a href="contact-1.html" class="site-button site-btn-effect">Contact Us</a>
+                                    <a href="<?php echo base_url('contact-us') ?>" class="site-button site-btn-effect">Contact Us</a>
                                 </div>
                                 <!-- TITLE END-->
                             </div>
@@ -261,20 +260,20 @@
                                         <div class="wt-box service-box-1 bg-white">
 
                                             <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Oil & </span>
-                                                <span class="s-title-two">Gas Engineering</span>
+                                                <span class="s-title-one">India </span>
+                                                <span class="s-title-two">Market Entry</span>
                                             </div>
                                             <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-oilgas.html" class="site-button-link">Read More</a>
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. totam enim labore ducimus expedita. </p>
+                                                <a href="<?php echo base_url('service/india-market-entry') ?>" class="site-button-link">Read More</a>
                                             </div>
 
-                                            <div class="wt-icon-box-wraper">
+                                            <!-- <div class="wt-icon-box-wraper">
                                                 <div class="wt-icon-box-md site-bg-primary">
                                                     <span class="icon-cell text-white"><i class="flaticon-industry"></i></span>
                                                 </div>
                                                 <div class="wt-icon-number"><span>01</span></div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                     </div>
@@ -283,20 +282,20 @@
                                         <div class="wt-box service-box-1 bg-white">
 
                                             <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Mechanical</span>
-                                                <span class="s-title-two">Engineering</span>
+                                                <span class="s-title-one">Legal</span>
+                                                <span class="s-title-two">Services</span>
                                             </div>
                                             <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-mechanical.html" class="site-button-link">Read More</a>
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. totam enim labore ducimus expedita.</p>
+                                                <a href="<?php echo base_url('service/legal') ?>" class="site-button-link">Read More</a>
                                             </div>
 
-                                            <div class="wt-icon-box-wraper">
+                                            <!-- <div class="wt-icon-box-wraper">
                                                 <div class="wt-icon-box-md site-bg-primary">
                                                     <span class="icon-cell text-white"><i class="flaticon-conveyor"></i></span>
                                                 </div>
                                                 <div class="wt-icon-number"><span>02</span></div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                     </div>
@@ -305,20 +304,20 @@
                                         <div class="wt-box service-box-1 bg-white">
 
                                             <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Automotive</span>
-                                                <span class="s-title-two">Manufacturing</span>
+                                                <span class="s-title-one">People </span>
+                                                <span class="s-title-two">Operation</span>
                                             </div>
                                             <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-automotive.html" class="site-button-link">Read More</a>
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. totam enim labore ducimus expedita.</p>
+                                                <a href="<?php echo base_url('service/people-operations') ?>" class="site-button-link">Read More</a>
                                             </div>
 
-                                            <div class="wt-icon-box-wraper">
+                                            <!-- <div class="wt-icon-box-wraper">
                                                 <div class="wt-icon-box-md site-bg-primary">
                                                     <span class="icon-cell text-white"><i class="flaticon-robotic-arm"></i></span>
                                                 </div>
                                                 <div class="wt-icon-number"><span>03</span></div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                     </div>
@@ -327,20 +326,20 @@
                                         <div class="wt-box service-box-1 bg-white">
 
                                             <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Chemical</span>
-                                                <span class="s-title-two">Research</span>
+                                                <span class="s-title-one">Joint </span>
+                                                <span class="s-title-two">Ventures</span>
                                             </div>
                                             <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-chemical.html" class="site-button-link">Read More</a>
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. totam enim labore ducimus expedita.</p>
+                                                <a href="<?php echo base_url('service/joint-ventures') ?>" class="site-button-link">Read More</a>
                                             </div>
 
-                                            <div class="wt-icon-box-wraper">
+                                            <!-- <div class="wt-icon-box-wraper">
                                                 <div class="wt-icon-box-md site-bg-primary">
-                                                    <span class="icon-cell text-white"><i class="flaticon-oil"></i></span>
+                                                    <span class="icon-cell text-white"><i class="fa fa-handshake"></i></span>
                                                 </div>
                                                 <div class="wt-icon-number"><span>04</span></div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                     </div>
@@ -349,45 +348,24 @@
                                         <div class="wt-box service-box-1 bg-white">
 
                                             <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Agricultural</span>
-                                                <span class="s-title-two">Automation</span>
+                                                <span class="s-title-one">Technologies </span>
+                                                <span class="s-title-two">Transfer</span>
                                             </div>
                                             <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-agricultural.html" class="site-button-link">Read More</a>
+                                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. totam enim labore ducimus expedita.</p>
+                                                <a href="<?php echo base_url('service/technology-transfer') ?>" class="site-button-link">Read More</a>
                                             </div>
 
-                                            <div class="wt-icon-box-wraper">
+                                            <!-- <div class="wt-icon-box-wraper">
                                                 <div class="wt-icon-box-md site-bg-primary">
                                                     <span class="icon-cell text-white"><i class="flaticon-scythe"></i></span>
                                                 </div>
                                                 <div class="wt-icon-number"><span>05</span></div>
-                                            </div>
+                                            </div> -->
 
                                         </div>
                                     </div>
 
-                                    <div class="item">
-                                        <div class="wt-box service-box-1 bg-white">
-
-                                            <div class="service-box-title title-style-2 site-text-secondry">
-                                                <span class="s-title-one">Civil</span>
-                                                <span class="s-title-two">Engineering</span>
-                                            </div>
-                                            <div class="service-box-content">
-                                                <p>Progressively maintain extensive infomediaries via extensible nich. Capitalize on low hanging fruit.</p>
-                                                <a href="s-civil.html" class="site-button-link">Read More</a>
-                                            </div>
-
-                                            <div class="wt-icon-box-wraper">
-                                                <div class="wt-icon-box-md site-bg-primary">
-                                                    <span class="icon-cell text-white"><i class="flaticon-helmet"></i></span>
-                                                </div>
-                                                <div class="wt-icon-number"><span>06</span></div>
-                                            </div>
-
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>
@@ -532,7 +510,7 @@
                                     <div class="video-section-info site-bg-primary site-text-white">
                                         <h3 class="wt-tilte site-text-white">The Best Solution For all industries</h3>
                                         <p>Seving an impressive list of long-term clients with experience and expertise in industries.</p>
-                                        <a href="s-mechanical.html" class="site-button-link">Read More</a>
+                                        <a href="<?php echo base_url('industries')?>" class="site-button-link">Read More</a>
                                     </div>
                                 </div>
 
@@ -556,9 +534,9 @@
             </div>
             <!-- VIDEO SECTION  SECTION END -->
 
-          
 
-         
+
+
 
             <!-- TESTIMONIAL SECTION START -->
             <div class="section-full  p-t80 testimonial-1-outer">
@@ -574,7 +552,7 @@
                                 </div>
                                 <h2>Happy WIth Customers & Clients</h2>
                                 <p>I feel very happy and be proud to connect with this industry. i presume this is a very productive and professional industry.i wish very good luck & success for this industry</p>
-                                <a href="contact-1.html" class="site-button site-btn-effect">Contact Us</a>
+                                <a href="<?php echo base_url('contact-us')?>" class="site-button site-btn-effect">Contact Us</a>
                             </div>
                             <!-- TITLE END-->
                         </div>
@@ -657,6 +635,6 @@
             </div>
             <!-- TESTIMONIAL SECTION END -->
 
-        
+
         </div>
         <!-- CONTENT END -->

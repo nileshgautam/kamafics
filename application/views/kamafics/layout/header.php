@@ -24,6 +24,9 @@
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<script>
+    const BaseUrl='<?php echo base_url()?>';
+    </script>
 
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/bootstrap.min.css">
@@ -46,8 +49,9 @@
     <!-- THEME COLOR CHANGE STYLE SHEET -->
     <link rel="stylesheet" class="skin" type="text/css" href="<?php echo base_url('assets/') ?>css/skin/skin-1.css">
     <!-- SIDE SWITCHER STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/switcher.css">
+    <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/switcher.css"> -->
 
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/milestone.css">
 
     <!-- REVOLUTION SLIDER CSS -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>plugins/revolution/revolution/css/settings.css">
@@ -173,24 +177,24 @@
                                 <li><a href="javascript:;">About</a>
                                     <ul class="sub-menu">
                                         <li><a href="<?php echo base_url('who-we-are')?>">Who we are</a></li>
-                                        <li><a href="<?php echo base_url('aboutus-milestone')?>">Milestones</a></li>
+                                        <li><a href="<?php echo base_url('about-us/milestone')?>">Milestones</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="<?php echo base_url('india-market-entry')?>">India Market Entry</a></li>
-                                        <li><a href="<?php echo base_url('legal')?>">Legal
+                                        <li><a href="<?php echo base_url('service/india-market-entry')?>">India Market Entry</a></li>
+                                        <li><a href="<?php echo base_url('service/legal')?>">Legal
                                             </a></li>
-                                        <li><a href="<?php echo base_url('people-operations')?>">People Operations
+                                        <li><a href="<?php echo base_url('service/people-operations')?>">People Operations
                                             </a></li>
-                                        <li><a href="<?php echo base_url('joint-ventures')?>">Joint Ventures
+                                        <li><a href="<?php echo base_url('service/joint-ventures')?>">Joint Ventures
                                             </a></li>
-                                        <li><a href="<?php echo base_url('technology-transfer')?>">Technology Transfer
+                                        <li><a href="<?php echo base_url('service/technology-transfer')?>">Technology Transfer
                                             </a></li>
 
                                     </ul>
                                 </li>
-                                <li><a href="<?php echo base_url('Industries')?>">Industries</a>
+                                <li><a href="<?php echo base_url('industries')?>">Industries</a>
                                     
                                 </li>
                                 <!-- <li><a href="javascript:;">Shop</a>

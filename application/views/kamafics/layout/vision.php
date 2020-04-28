@@ -1,5 +1,5 @@
      <!-- VISION SECTION START -->
-     <div class="section-full  p-t80 p-b50 bg-white  bg-bottom-right bg-no-repeat" style="background-image:url(images/background/bg-5.png)">
+     <div class="section-full  p-t80 p-b50 bg-white  bg-bottom-right bg-no-repeat" style="background-image:url(<?php echo base_url('assets/images/background/bg-5.png')?>)">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
@@ -37,7 +37,7 @@
                     <div class="col-lg-6 col-md-12">
                     
                          <div class="home-contact-section site-bg-primary m-b30 p-a40">
-                            <form class="cons-contact-form" method="post" action="#">
+                            <form class="contact-form" method="post">
                                
                                 <!-- TITLE START-->
                                 <div class="wt-small-separator-outer text-white">
@@ -54,13 +54,13 @@
                                     
                                     <div class="col-md-6 col-sm-6">
                                         <div class="form-group">
-                                           <input name="email" type="text" class="form-control" required placeholder="Email">
+                                           <input name="email" type="email" class="form-control" required placeholder="Email">
                                         </div>
                                     </div>
                                     
                                     <div class="col-md-6 col-sm-6">
                                         <div class="form-group">
-                                            <input name="phone" type="text" class="form-control" required placeholder="Phone">
+                                            <input name="phone" type="phone" class="form-control" required placeholder="Phone">
                                          </div>
                                     </div>
                                     

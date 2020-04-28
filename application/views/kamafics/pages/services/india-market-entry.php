@@ -47,7 +47,7 @@
 
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Business </span>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Customized India market entry </span>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Financial</span>
@@ -105,7 +105,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Corporate Governance </span>
@@ -124,7 +124,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Search for an Indian Partner/
@@ -144,7 +144,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Market research </span>

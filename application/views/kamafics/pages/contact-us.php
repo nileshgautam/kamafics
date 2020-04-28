@@ -7,7 +7,7 @@
                             <div class="row  d-flex justify-content-center flex-wrap">
                             
                                 <div class="col-lg-6 col-md-6 m-b30">
-                                    <form  class="cons-contact-form" method="post" action="#">
+                                    <form  class="contact-form" method="post">
                                         <!-- TITLE START -->
                                         <div class="section-head left wt-small-separator-outer">
                                             <div class="wt-small-separator site-text-primary">
@@ -28,13 +28,13 @@
                                             
                                             <div class="col-lg-12 col-md-12">
                                                 <div class="form-group">
-                                                   <input name="email" type="text" class="form-control" required placeholder="Email">
+                                                   <input name="email" type="email" class="form-control" required placeholder="Email">
                                                 </div>
                                             </div>
                                             
                                             <div class="col-lg-12 col-md-12">
                                                 <div class="form-group">
-                                                    <input name="phone" type="text" class="form-control" required placeholder="Phone">
+                                                    <input name="phone" type="phone" class="form-control" required placeholder="Phone">
                                                  </div>
                                             </div>
                                             
@@ -129,7 +129,9 @@
                 <div class="section-content">
                     <div class="container">
                         <div class="gmap-outline">
-                            <div id="gmap_canvas2" class="google-map"></div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.9874812988373!2d77.03636216440195!3d28.419634600436904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d229e71ef44dd%3A0x9931b80f30d32dd3!2sJMD%20Megapolis!5e0!3m2!1sen!2sin!4v1588080273155!5m2!1sen!2sin" width="1200" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+                            <!-- <div id="gmap_canvas2" class="google-map"></div> -->
                         </div>
                     </div>
                 </div>

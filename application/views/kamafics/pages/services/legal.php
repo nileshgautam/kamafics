@@ -46,7 +46,7 @@
                     <div class="row d-flex justify-content-center">
 
 
-                        <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                        <div class="col-lg-6 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
                                     <div class="service-box-title title-style-2 site-text-secondry">
@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                        <div class="col-lg-6 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
                                     <div class="service-box-title title-style-2 site-text-secondry">
@@ -74,9 +74,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                        <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white">
+                                <div class="wt-box service-box-1 bg-white ">
                                     <div class="service-box-title title-style-2 site-text-secondry">
                                         <span class="s-title-one">Drafting legal agreements and </span>
                                         <span class="s-title-two"> or memorandums of understanding</span>

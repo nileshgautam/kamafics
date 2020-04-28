@@ -49,21 +49,24 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'controlunit';
+$route['default_controller'] = 'ControlUnit';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 // custom url routing
-$route['home'] = 'controlunit/index';
-$route['about-us'] = 'controlunit/aboutus';
-$route['Industries'] = 'controlunit/Industries';
-$route['who-we-are'] = 'controlunit/whoweare';
-$route['contact-us'] = 'controlunit/contactus';
+$route['home'] = 'ControlUnit/index';
+$route['about-us'] = 'ControlUnit/aboutus';
+$route['industries'] = 'ControlUnit/Industries';
+$route['who-we-are'] = 'ControlUnit/whoweare';
+$route['contact-us'] = 'ControlUnit/contactus';
 
 // services
-$route['india-market-entry'] = 'controlunit/indiamarketentry';
-$route['legal'] = 'controlunit/legal';
-$route['joint-ventures'] = 'controlunit/jointventures';
-$route['people-operations'] = 'controlunit/peopleoperations';
-$route['technology-transfer'] = 'controlunit/technologytransfer';
-$route['aboutus-milestone'] = 'controlunit/milestone';
+$route['service/india-market-entry'] = 'ControlUnit/indiamarketentry';
+$route['service/legal'] = 'ControlUnit/legal';
+$route['service/joint-ventures'] = 'ControlUnit/jointventures';
+$route['service/people-operations'] = 'ControlUnit/peopleoperations';
+$route['service/technology-transfer'] = 'ControlUnit/technologytransfer';
+$route['about-us/milestone'] = 'ControlUnit/milestone';
+$route['term-condition'] = 'ControlUnit/termcondition';
+$route['privacy-policy'] = 'ControlUnit/privacypolicy';
+

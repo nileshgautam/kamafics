@@ -39,11 +39,11 @@
                         </div>
                         <!-- TITLE END-->
                         <div class="row d-flex justify-content-center">
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
-                                        <div class="service-box-title title-style-2 site-text-secondry">
+                                        <div class="service-box-title title-style-2 site-text-secondry ">
                                             <span class="s-title-one">Language Services
                                             </span>
                                             <!-- <span class="s-title-two">Engineering</span> -->
@@ -58,9 +58,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50  ">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Packing</span>
@@ -76,9 +76,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Weather
@@ -96,9 +96,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Metallurgical
@@ -119,7 +119,7 @@
 
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Solar
@@ -139,7 +139,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Sheet Metal </span>
@@ -158,7 +158,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Telecommunication
@@ -180,7 +180,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Moulds and Parts
@@ -205,7 +205,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Valves
                                             </span>
@@ -220,7 +220,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Stone</span>
                                         </div>
@@ -234,7 +234,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Foundary
                                             </span>
@@ -249,7 +249,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Sports
                                             </span>
@@ -264,7 +264,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Tobacco
                                             </span>
@@ -279,7 +279,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Lifting </span>
                                             <span class="s-title-two">Equipment</span>
@@ -294,7 +294,7 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Cold Storage Systems</span>
                                             <span class="s-title-two">Storage Systems</span>
@@ -308,9 +308,9 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Musical
                                             </span>
@@ -323,9 +323,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white">
+                                    <div class="wt-box service-box-1 bg-white mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Automotive</span>
                                         </div>

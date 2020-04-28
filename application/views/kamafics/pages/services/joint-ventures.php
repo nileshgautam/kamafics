@@ -47,7 +47,7 @@
 
                     <div class="row d-flex justify-content-center">
 
-                        <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
+                        <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
 
@@ -56,15 +56,10 @@
                                         <span class="s-title-two">Ventures</span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Setting up joint ventures and /or strategic alliances in India or overseas</p>
+                                        <p>Setting up joint ventures and /or strategic alliances in India or overseas.</p>
                                     </div>
 
-                                    <div class="wt-icon-box-wraper">
-                                        <div class="wt-icon-box-md site-bg-primary">
-                                            <span class="icon-cell text-white"><i class="flaticon-industry"></i></span>
-                                        </div>
-                                        <div class="wt-icon-number"><span>01</span></div>
-                                    </div>
+                                   
 
                                 </div>
                             </div>

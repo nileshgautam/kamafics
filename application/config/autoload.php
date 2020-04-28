@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('database', 'email', 'session');
+$autoload['libraries'] = array('database');
 
 /*
 | -------------------------------------------------------------------
@@ -115,7 +115,6 @@ $autoload['config'] = array();
 |
 | NOTE: Do not include the "_lang" part of your file.  For example
 | "codeigniter_lang.php" would be referenced as array('codeigniter');
-|
 */
 $autoload['language'] = array();
 

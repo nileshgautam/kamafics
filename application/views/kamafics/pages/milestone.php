@@ -27,574 +27,264 @@
             </div>
             <!-- INNER PAGE BANNER END -->
 
-            <!-- ABOUT SECTION START -->
             <div class="section-full welcome-section-outer">
-                <div class="welcome-section-top bg-white p-t80 p-b50">
-                    <div class="container">
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Milestone</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div>
+                <ul class="timeline">
 
-                                    <!-- TITLE END-->
-
-                                    <p>Incorporation of KMAFICS by Ajaya Khullar under able guidance of Late Sh. Madan Mohan Lal Khullar in New Delhi
-                                    </p>
-                                </div>
+                    <!-- Item 1 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2017</span>
+                                <span class="time-wrapper">
+                                    <!-- <span class="time">2017</span> -->
+                                </span>
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1987</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-
+                            <div class="desc">Setting up an office space and factory of a Basque firm in West India</div>
                         </div>
+                    </li>
 
-
-
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>First project in India for a Spanish 2 wheeler OEM
-
-                                    </p>
-                                </div>
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2016.</span>
+                                <span class="time-wrapper"></span>
                             </div>
+                            <div class="desc">KMAFICS shifted to a bigger premises in JMD Megapolis</div>
+                        </div>
+                    </li>
 
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1988</strong></div>
-                                    </div>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2015</span>
+                                <!-- <span class="time-wrapper"><span class="time">2015 - 2011</span></span> -->
+                            </div>
+                            <div class="desc">Setting up a factory of a Basque Company in Central India
+
                             </div>
                         </div>
+                    </li>
 
-
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>First project in India for a Finnish cold storage manufacturer
-
-                                    </p>
-                                </div>
+                    <!-- new -->
+                    <!-- Item 4 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2014</span>
+                                <!-- <span class="time-wrapper"><span class="time">2013 - present</span></span> -->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1989</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Setting up a commercial office space of a Spanish Company in Central India
                             </div>
                         </div>
+                    </li>
 
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2012</span>
 
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Project in India for Finnish Tobacco and Ciggarette giant
-
-                                    </p>
-                                </div>
                             </div>
+                            <div class="desc">Setting up of the Sunehra Kal Foundation for the brighter future of our young generation
 
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1991</strong></div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
+                    </li>
 
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>First project in India for an American sporting equipment brand
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2011</span>
 
-
-                                    </p>
-                                </div>
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1992</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">KMAFICS shifted to a bigger premises in Iris Park
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>First negotiations for a JV conducted on behalf of a Basque company in India
+                    </li>
+                    <!-- new -->
+                    <!-- Item 1 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2010</span>
 
-
-                                    </p>
-                                </div>
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1994</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Opening of Shri Madan Mohan Lal Khullar Dharmarth Sanstha (SMMLKDS), a private trust made in the memory of the Chiarman Emeritus to support underpriviledged senior citizens
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Project in India for Finnish Telecom Giant (later a Global Brand) and Mobile Telephone manufacturer
+                    </li>
 
-
-                                    </p>
-                                </div>
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2008.</span>
+                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
                             </div>
+                            <div class="desc">Setting up of two factories of a Catalan company and a Basque Company in Central India and one factory of a Basque Company in South India
+                                .</div>
+                        </div>
+                    </li>
 
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1996</strong></div>
-                                    </div>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2007</span>
+
+                            </div>
+                            <div class="desc">Expansion of KMAFICS with an office in Sushant Arcade, Gurugram
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Project in India for an automotive homologation and testing company
+                    </li>
+                    <!--  -->
+                    <!-- Item 1 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2006</span>
 
-
-                                    </p>
-                                </div>
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>1997</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Setting up an office space of a Basque Company in North India
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Opening of KMAFICS in Regency Park, Gurugram
+                    </li>
 
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2005</span>
 
-                                    </p>
-                                </div>
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2002</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Setting up an office space of a Finnish Company in North India
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up a factory of a Basque Company in South India
-                                    </p>
-                                </div>
-                            </div>
+                    </li>
 
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2004</strong></div>
-                                    </div>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">2004</span>
+
+                            </div>
+                            <div class="desc">Setting up a factory of a Basque Company in South India
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up an office space of a Finnish Company in North India
+                    </li>
 
-                                    </p>
-                                </div>
+                    <!-- Item 4 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">2002</span>
+
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2005</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Opening of KMAFICS in Regency Park, Gurugram
                             </div>
                         </div>
+                    </li>
 
-
-
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up an office space of a Basque Company in North India
-
-                                    </p>
-                                </div>
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">1997</span>
+                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2006</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Project in India for an automotive homologation and testing company
                             </div>
                         </div>
+                    </li>
 
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Expansion of KMAFICS with an office in Sushant Arcade, Gurugram
-
-
-                                    </p>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">1996</span>
+                                <!-- <span class="time-wrapper"><span class="time">2008 - 2011</span></span> -->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2007</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Project in India for Finnish Telecom Giant (later a Global Brand) and Mobile Telephone manufacturer
                             </div>
                         </div>
-
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up of two factories of a Catalan company and a  Basque Company in Central India and one factory of a Basque Company in South India
-
-
-                                    </p>
-                                </div>
+                    </li>
+                    <!-- new -->
+                    <!-- Item 1 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">1994</span>
+                                <!-- <span class="time-wrapper"><span class="time">2013 - present</span></span> -->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2008</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">First negotiations for a JV conducted on behalf of a Basque company in India
                             </div>
                         </div>
+                    </li>
 
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Opening of Shri Madan Mohan Lal Khullar Dharmarth Sanstha (SMMLKDS), a private trust made in the memory of the Chiarman Emeritus to support underpriviledged senior citizens
-
-
-                                    </p>
-                                </div>
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">1992</span>
+                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
                             </div>
+                            <div class="desc">First project in India for an American sporting equipment brand.</div>
+                        </div>
+                    </li>
 
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2010</strong></div>
-                                    </div>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">1991</span>
+                              
+                            </div>
+                            <div class="desc">Project in India for Finnish Tobacco and Ciggarette giant</div>
+                        </div>
+                    </li>
+                    <!--  -->
+                    <!-- Item 1 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">1989</span>
+
+                            </div>
+                            <div class="desc">First project in India for a Finnish cold storage manufacturer.</div>
+                        </div>
+                    </li>
+
+                    <!-- Item 2 -->
+                    <li>
+                        <div class="direction-l">
+                            <div class="flag-wrapper">
+                                <span class="flag">1988</span>
+                             
+                            </div>
+                            <div class="desc">First project in India for a Spanish 2 wheeler OEM
                             </div>
                         </div>
+                    </li>
 
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>KMAFICS shifted to a bigger premises in Iris Park
-
-
-                                    </p>
-                                </div>
+                    <!-- Item 3 -->
+                    <li>
+                        <div class="direction-r">
+                            <div class="flag-wrapper">
+                                <span class="flag">1987</span>
+                                <!-- <span class="time-wrapper"><span class="time">2008 - 2011</span></span> -->
                             </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2011</strong></div>
-                                    </div>
-                                </div>
+                            <div class="desc">Incorporation of KMAFICS by Ajaya Khullar under able guidance of Late Sh. Madan Mohan Lal Khullar in New Delhi
                             </div>
                         </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up of the Sunehra Kal Foundation for the brighter future of our young generation
+                    </li>
 
 
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2012</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up a commercial office space of a Spanish Company in Central India
-
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2014</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up a factory of a Basque Company in Central India
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2015</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>KMAFICS shifted to a bigger premises in JMD Megapolis
-
-
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2016</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row d-flex justify-content-center">
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="welcom-to-section">
-                                    <!-- TITLE START-->
-                                    <div class="left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Event</div>
-                                            <div class="sep-leaf-right"></div>
-                                        </div>
-                                    </div> <!-- TITLE END-->
-                                    <p>Setting up an office space and factory of a Basque firm in West India
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="img-colarge2">
-                                    <div class="since-year-outer2">
-                                        <div class="since-year2"><span>in</span><strong>2017</strong></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
+                </ul>
             </div>
-            <!-- ABOUT SECTION  SECTION END -->
 
 
 
