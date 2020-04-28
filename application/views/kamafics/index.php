@@ -27,7 +27,7 @@
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[10,10,10,4]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,4]" data-paddingleft="[30,30,30,20]" style="z-index: 13; 
                                 white-space: normal; 
                                 font-weight: 300;
-                                font-family: 'Teko', sans-serif;">High Performance</div>
+                                font-family: 'Teko', sans-serif;">Lorem, ipsum.</div>
 
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" id="slide-901-layer-3" data-x="['left','left','left','left']" data-hoffset="[30','30','30','30']" data-y="['top','top','top','top']" data-voffset="['260','250','260','230']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','48','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -37,7 +37,7 @@
                                 white-space: normal; 
                                 font-weight: 300;
                                 color:#fff;
-                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Services For Industries</div>
+                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Lorem, ipsum dolor.</div>
 
                                 <!-- LAYER NR. 4 [ for paragraph] -->
                                 <div class="tp-caption  tp-resizeme" id="slide-901-layer-4" data-x="['left','left','left','left']" data-hoffset="['30','30','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['150','10','0','-40']" data-fontsize="['20','20','20','16']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -47,7 +47,7 @@
                                 font-weight: 500; 
                                 color:#fff;
                                 border-width:0px;font-family: 'Poppins', sans-serif;">
-                                    In the world of renewable energy we cast quite a shadow. innovative products and services...
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. A doloribus consectetur quidem, cumque vitae nesciunt?
                                 </div>
 
                                 <!-- LAYER NR. 5 [ for see all service botton ] -->
@@ -55,7 +55,7 @@
                                 {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeOut"},
                                 {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index:13; text-transform:uppercase;">
-                                    <a href="contact-1.html" class="site-button site-btn-effect">Book Now</a>
+                                    <a href="<?php echo base_url('contact-us')?>" class="site-button site-btn-effect">Book Now</a>
                                 </div>
 
                             </li>
@@ -80,7 +80,7 @@
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[10,10,10,4]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,4]" data-paddingleft="[30,30,30,20]" style="z-index: 13; 
                                 white-space: normal; 
                                 font-weight: 300;
-                                font-family: 'Teko', sans-serif">High Performance</div>
+                                font-family: 'Teko', sans-serif">Lorem, ipsum.</div>
 
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" id="slide-902-layer-3" data-x="['left','left','left','left']" data-hoffset="[30','30','30','30']" data-y="['top','top','top','top']" data-voffset="['260','250','260','230']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','48','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -90,7 +90,7 @@
                                 white-space: normal; 
                                 font-weight: 300;
                                 color:#fff;
-                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Services For Industries</div>
+                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;"> Lorem, ipsum dolor. </div>
 
                                 <!-- LAYER NR. 4 [ for paragraph] -->
                                 <div class="tp-caption  tp-resizeme" id="slide-902-layer-4" data-x="['left','left','left','left']" data-hoffset="['30','30','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['150','10','0','-40']" data-fontsize="['20','20','20','16']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -100,7 +100,7 @@
                                 font-weight: 500; 
                                 color:#fff;
                                 border-width:0px;font-family: 'Poppins', sans-serif;">
-                                    In the world of renewable energy we cast quite a shadow. innovative products and services...
+                                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae eum aliquam, dolorem quas aliquid maxime.
                                 </div>
 
                                 <!-- LAYER NR. 5 [ for see all service botton ] -->
@@ -108,7 +108,7 @@
                                 {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeOut"},
                                 {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index:13; text-transform:uppercase;">
-                                    <a href="contact-1.html" class="site-button site-btn-effect">Book Now</a>
+                                    <a href="<?php echo base_url('contact-us')?>" class="site-button site-btn-effect">Book Now</a>
                                 </div>
 
                             </li>
@@ -133,7 +133,7 @@
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[10,10,10,4]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,4]" data-paddingleft="[30,30,30,20]" style="z-index: 13; 
                                 white-space: normal; 
                                 font-weight: 300;
-                                font-family: 'Teko', sans-serif">High Performance</div>
+                                font-family: 'Teko', sans-serif">Lorem, ipsum.</div>
 
                                 <!-- LAYER NR. 3 [ for title ] -->
                                 <div class="tp-caption   tp-resizeme" id="slide-903-layer-3" data-x="['left','left','left','left']" data-hoffset="[30','30','30','30']" data-y="['top','top','top','top']" data-voffset="['260','250','260','230']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','48','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -143,7 +143,7 @@
                                 white-space: normal; 
                                 font-weight: 300;
                                 color:#fff;
-                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Services For Industries</div>
+                                border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Lorem, ipsum dolor.</div>
 
                                 <!-- LAYER NR. 4 [ for paragraph] -->
                                 <div class="tp-caption  tp-resizeme" id="slide-903-layer-4" data-x="['left','left','left','left']" data-hoffset="['30','30','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['150','10','0','-40']" data-fontsize="['20','20','20','16']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
@@ -153,7 +153,7 @@
                                 font-weight: 500; 
                                 color:#fff;
                                 border-width:0px;font-family: 'Poppins', sans-serif;">
-                                    In the world of renewable energy we cast quite a shadow. innovative products and services...
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, distinctio. Tempore nemo iste corrupti natus.
                                 </div>
 
                                 <!-- LAYER NR. 5 [ for see all service botton ] -->
@@ -161,7 +161,7 @@
                                 {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeOut"},
                                 {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                                 ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index:13; text-transform:uppercase;">
-                                    <a href="contact-1.html" class="site-button site-btn-effect">Book Now</a>
+                                    <a href="<?php echo base_url('contact-us')?>" class="site-button site-btn-effect">Book Now</a>
                                 </div>
 
 
@@ -197,16 +197,16 @@
                                     <div class="left wt-small-separator-outer">
                                         <div class="wt-small-separator site-text-primary">
                                             <div class="sep-leaf-left"></div>
-                                            <div>Welcome to industro</div>
+                                            <div>Welcome to Kamafics</div>
                                             <div class="sep-leaf-right"></div>
                                         </div>
                                     </div>
-                                    <h2>We Are Here to Increase Your Knowledge With Experience</h2>
+                                    <h2>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, quis.</h2>
                                     <!-- TITLE END-->
                                     <ul class="site-list-style-one">
-                                        <li>Quality Control System , 100% Satisfaction Guarantee</li>
-                                        <li>Unrivalled Workmanship, Professional and Qualified</li>
-                                        <li>Environmental Sensitivity, Personalised Solutions</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, quis.</h2></li>
+                                        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, quis.</h2></li>
+                                        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, quis.</h2></li>
                                     </ul>
 
                                     <p>First generation entrepreneur and the driving force behind KMAFICS and its diversified business portfolio. His contribution spanning more than 30 years in various fields of the manufacturing and the service sector, has been immeasurable particularly in the areas of operations, finance and senior management functions such as strategic planning and investment decisions. He has played a vital role in steering the growth of various companies to greater heights. </p>
@@ -241,10 +241,8 @@
                                         <div>The Best Industry services</div>
                                         <div class="sep-leaf-right"></div>
                                     </div>
-                                    <h2>High Performance Services For Multiple Insdustries And Technologies!</h2>
-                                    <p>Progressively maintain extensive infomediaries via extensible niches.
-                                        Capitalize on low hanging fruit to identify a ballpark value added is activity to beta test.
-                                        Override the igital divide with additional click throughs from fruit to identify a ballpark value added.
+                                    <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, tempora.!</h2>
+                                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Saepe, ipsum itaque. Vitae nobis modi dolores, omnis asperiores quibusdam voluptates fuga recusandae, sunt, ullam ducimus voluptas. Perspiciatis nulla voluptatum illo quas..
                                     </p>
                                     <a href="<?php echo base_url('contact-us') ?>" class="site-button site-btn-effect">Contact Us</a>
                                 </div>
@@ -452,7 +450,7 @@
                                 <div>All Solutions</div>
                                 <div class="sep-leaf-right"></div>
                             </div>
-                            <h2>Get A Solution For All Industries</h2>
+                            <h2>Lorem ipsum dolor sit amet consectetur.</h2>
                         </div>
                         <!-- TITLE END-->
                     </div>
@@ -508,8 +506,9 @@
 
                                 <div class="col-lg-5 col-md-6 m-b30 ">
                                     <div class="video-section-info site-bg-primary site-text-white">
-                                        <h3 class="wt-tilte site-text-white">The Best Solution For all industries</h3>
-                                        <p>Seving an impressive list of long-term clients with experience and expertise in industries.</p>
+                                        <h3 class="wt-tilte site-text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit.</h3>
+                                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa odio dolores ut molestiae et facilis.
+                                            .</p>
                                         <a href="<?php echo base_url('industries')?>" class="site-button-link">Read More</a>
                                     </div>
                                 </div>
@@ -517,8 +516,8 @@
                                 <div class="col-lg-7 col-md-6 m-b30">
                                     <div class="video-section-blockquote">
                                         <i class="fa fa-quote-left"></i>
-                                        <span class="q-author-detail site-text-white title-style-2">Many of Our SELF registered employees are requested an main preferred temporary staff when all service</span>
-                                        <div class="q-author-name site-text-primary title-style-2">Farnandoz Biki, CEO</div>
+                                        <span class="q-author-detail site-text-white title-style-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates cum placeat nobis atque cupiditate consequuntur.</span>
+                                        <div class="q-author-name site-text-primary title-style-2">Lorem, ipsum., CEO</div>
                                     </div>
                                 </div>
 
@@ -534,10 +533,6 @@
             </div>
             <!-- VIDEO SECTION  SECTION END -->
 
-
-
-
-
             <!-- TESTIMONIAL SECTION START -->
             <div class="section-full  p-t80 testimonial-1-outer">
                 <div class="container">
@@ -551,7 +546,7 @@
                                     <div class="sep-leaf-right"></div>
                                 </div>
                                 <h2>Happy WIth Customers & Clients</h2>
-                                <p>I feel very happy and be proud to connect with this industry. i presume this is a very productive and professional industry.i wish very good luck & success for this industry</p>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, autem. Sequi, autem. Veniam, mollitia veritatis?</p>
                                 <a href="<?php echo base_url('contact-us')?>" class="site-button site-btn-effect">Contact Us</a>
                             </div>
                             <!-- TITLE END-->
@@ -569,7 +564,7 @@
                                                 </div>
                                                 <div class="testimonial-text">
                                                     <i class="fa fa-quote-left"></i>
-                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
+                                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo quo aspernatur perferendis atque rerum molestiae eveniet consectetur repudiandae cumque ipsam?</p>
                                                 </div>
                                                 <div class="testimonial-detail clearfix">
                                                     <div class="testimonial-info">
@@ -595,7 +590,7 @@
                                                 </div>
                                                 <div class="testimonial-detail clearfix">
                                                     <div class="testimonial-info">
-                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
+                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Lorem, ipsum.</span>
                                                         <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
                                                     </div>
                                                 </div>
@@ -613,11 +608,12 @@
                                                 </div>
                                                 <div class="testimonial-text">
                                                     <i class="fa fa-quote-left"></i>
-                                                    <p>This is not just another nail salon! These ladies are super talented! My nails have never looked/felt more amazing!! the environment here is so happy and cheery!</p>
+                                                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae odit, harum voluptas adipisci voluptatibus laudantium modi officia expedita qui. Accusantium.</p>
                                                 </div>
                                                 <div class="testimonial-detail clearfix">
                                                     <div class="testimonial-info">
-                                                        <span class="testimonial-name  title-style-2 site-text-secondry">Malcolm Franzcrip</span>
+                                                        <span class="testimonial-name  title-style-2 site-text-secondry">lorem2
+                                                            ,</span>
                                                         <span class="testimonial-position title-style-2 site-text-primary">Contractor</span>
                                                     </div>
                                                 </div>

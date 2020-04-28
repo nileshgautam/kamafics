@@ -41,12 +41,12 @@
                                             <div class="sep-leaf-right"></div>
                                         </div>
                                     </div>
-                                    <h2>We Are Here to Increase Your Knowledge With Experience</h2>
+                                    <h2>Lorem ipsum dolor sit amet.</h2>
                                     <!-- TITLE END-->
                                     <ul class="site-list-style-one">
-                                        <li>Quality Control System , 100% Satisfaction Guarantee</li>
-                                        <li>Unrivalled Workmanship, Professional and Qualified</li>
-                                        <li>Environmental Sensitivity, Personalised Solutions</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
+                                        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
                                     </ul>
 
                                     <p>We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.

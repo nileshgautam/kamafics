@@ -36,10 +36,10 @@
                     <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
-                            <div>The Best India Market Entry services</div>
+                            <div>Lorem ipsum dolor sit amet.</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>India Market Entry Services For Multiple Insdustries And Technologies!</h2>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque.</h2>
                     </div>
                     <!-- TITLE END-->
 

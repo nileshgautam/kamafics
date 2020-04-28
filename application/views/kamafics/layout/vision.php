@@ -10,7 +10,7 @@
                                 <div>Vision & Value</div>
                                 <div  class="sep-leaf-right"></div>
                             </div>
-                            <h2>Serving Impressive List Of Long Term Clients!</h2>
+                            <h2>Lorem ipsum dolor sit amet.</h2>
                             <p>KMAFICS's vision is to be among the top management consulting companies helping overseas companies set up in India. We shall achieve this goal by being the preferred solution provider to the needs of our customers, by practicing respectful and ethical business practices, by being the employer of choice within the industry, and by providing superior returns to our investors.									
 									
 									
@@ -29,7 +29,7 @@
                         
                             <div class="video3-section-blockquote">
                                 <i class="fa fa-quote-left"></i>
-                                <span class="q-author-detail site-text-secondry title-style-2">Many of Our SELF registered employees are requested an main preferred temporary staff when all service</span>
+                                <span class="q-author-detail site-text-secondry title-style-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis, facere.</span>
                                 <div class="q-author-name site-text-primary title-style-2">Ajay Khullar</div>
                             </div>
                         </div>                                                                                  
