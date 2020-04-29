@@ -280,45 +280,5 @@
  <script src="<?php echo base_url('assets/notify/') ?>bootstrap-notify.min.js"></script>
  <script src="<?php echo base_url('assets/notify/') ?>MyScriptLibrary.js"></script>
 
-
-
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_8C7p0Ws2gUu7wo0b6pK9Qu7LuzX2iWY&amp;libraries=places&amp;"></script><!-- GOOGLE MAP -->
- <script src="<?php echo base_url('assets/') ?>js/map.script.js"></script>
-
- <!-- STYLE SWITCHER  ======= -->
- <!-- <div class="styleswitcher">
-
-     <div class="switcher-btn-bx">
-         <a class="switch-btn">
-             <span class="fa fa-cog fa-spin"></span>
-         </a>
-     </div>
-
-     <div class="styleswitcher-inner">
-
-         <h6 class="switcher-title">Color Skin</h6>
-         <ul class="color-skins">
-             <li><a class="theme-skin skin-1" href="indexa39b.html?theme=css/skin/skin-1"></a></li>
-             <li><a class="theme-skin skin-2" href="index61e7.html?theme=css/skin/skin-2"></a></li>
-             <li><a class="theme-skin skin-3" href="indexcce5.html?theme=css/skin/skin-3"></a></li>
-             <li><a class="theme-skin skin-4" href="index13f7.html?theme=css/skin/skin-4"></a></li>
-             <li><a class="theme-skin skin-5" href="index19a6.html?theme=css/skin/skin-5"></a></li>
-             <li><a class="theme-skin skin-6" href="indexfe5c.html?theme=css/skin/skin-6"></a></li>
-             <li><a class="theme-skin skin-7" href="indexab47.html?theme=css/skin/skin-7"></a></li>
-             <li><a class="theme-skin skin-8" href="index5f8d.html?theme=css/skin/skin-8"></a></li>
-             <li><a class="theme-skin skin-9" href="index5663.html?theme=css/skin/skin-9"></a></li>
-             <li><a class="theme-skin skin-10" href="index28ac.html?theme=css/skin/skin-10"></a></li>
-             <li><a class="theme-skin skin-11" href="index26b8.html?theme=css/skin/skin-11"></a></li>
-             <li><a class="theme-skin skin-12" href="index7f4c.html?theme=css/skin/skin-12"></a></li>
-         </ul>
-
-     </div>
- </div> -->
- <!-- STYLE SWITCHER END ==== -->
-
  </body>
-
-
-
-
- </html>
+</html>

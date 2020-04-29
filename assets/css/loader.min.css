@@ -1,3 +1,7 @@
+:root {
+	--main-bg-color: #1bf298;
+  }
+
 .loader {
 	height: 58px;
 	left: 50%;
@@ -10,7 +14,7 @@
 	width: 58px;
 }
 .loader span {
-	background: rgb(255,95,21);
+	background: var(--main-bg-color);
 	display: block;
 	height: 12px;
 	opacity: 0;

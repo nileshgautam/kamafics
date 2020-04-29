@@ -3,7 +3,9 @@
 	Premery bg color 
 =====================*/
 :root {
-	--main-bg-color: #1bf298;
+	/* --main-bg-color: #1bf298; */
+	--main-bg-color: #1bf2b2ea;
+
   }
   
 ::selection {
