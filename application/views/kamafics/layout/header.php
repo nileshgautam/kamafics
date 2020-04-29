@@ -47,7 +47,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/flaticon.min.css">
 
     <!-- THEME COLOR CHANGE STYLE SHEET -->
-    <link rel="stylesheet" class="skin" type="text/css" href="<?php echo base_url('assets/') ?>css/skin/skin-1.css">
+    <link rel="stylesheet" class="skin" type="text/css" href="<?php echo base_url('assets/') ?>css/skin/skin-3.css">
     <!-- SIDE SWITCHER STYLE SHEET -->
     <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/') ?>css/switcher.css"> -->
 

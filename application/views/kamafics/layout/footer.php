@@ -86,7 +86,7 @@
      <div class="footer-bottom">
          <div class="container">
              <div class="wt-footer-bot-left d-flex justify-content-between">
-                 <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">www.gennextit.com</a></span>
+                 <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">Gennext IT Management And Consulting Pvt. Ltd.</a></span>
                  <ul class="copyrights-nav">
                      <li><a href="<?php echo base_url('term-condition') ?>">Terms &amp; Condition</a></li>
                      <li><a href="<?php echo base_url('privacy-policy') ?>">Privacy Policy</a></li>
@@ -259,7 +259,7 @@
  <script src="<?php echo base_url('assets/') ?>js/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
  <script src="<?php echo base_url('assets/') ?>js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
 
- <script src="<?php echo base_url('assets/') ?>js/switcher.js"></script><!-- SHORTCODE FUCTIONS  -->
+ <!-- <script src="<?php echo base_url('assets/') ?>js/switcher.js"></script>SHORTCODE FUCTIONS  -->
 
  <!-- REVOLUTION JS FILES -->
 
@@ -319,6 +319,6 @@
  </body>
 
 
- <!-- Mirrored from thewebmax.com/industro/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 27 Apr 2020 05:32:13 GMT -->
+
 
  </html>
