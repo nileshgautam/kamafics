@@ -244,7 +244,10 @@
  <!-- LOADING AREA  END ====== -->
 
  <!-- JAVASCRIPT  FILES ========================================= -->
- <script src="<?php echo base_url('assets/') ?>js/jquery-2.2.0.min.js"></script><!-- JQUERY.MIN JS -->
+ <!-- <script src="<?php echo base_url('assets/') ?>js/jquery-2.2.0.min.js"></script>JQUERY.MIN JS -->
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
  <script src="<?php echo base_url('assets/') ?>js/popper.min.js"></script><!-- POPPER.MIN JS -->
  <script src="<?php echo base_url('assets/') ?>js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
  <script src="<?php echo base_url('assets/') ?>js/bootstrap-select.min.js"></script><!-- Form js -->
