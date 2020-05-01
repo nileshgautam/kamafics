@@ -86,7 +86,7 @@
      <div class="footer-bottom">
          <div class="container">
              <div class="wt-footer-bot-left d-flex justify-content-between">
-                 <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">Gennext IT Management And Consulting Pvt. Ltd.</a></span>
+                 <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">GennextIT</a></span>
                  <ul class="copyrights-nav">
                      <li><a href="<?php echo base_url('term-condition') ?>">Terms &amp; Condition</a></li>
                      <li><a href="<?php echo base_url('privacy-policy') ?>">Privacy Policy</a></li>
