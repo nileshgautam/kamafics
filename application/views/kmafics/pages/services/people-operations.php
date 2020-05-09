@@ -2,14 +2,13 @@
     <div class="page-content">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper bg-center" style="
-        background-image:url(<?php echo base_url('assets/images/banner/2.jpg') ?>);">
+        <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/2.jpg')?>);">
             <div class="overlay-main site-bg-secondry opacity-07"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
                     <div class="banner-title-outer">
                         <div class="banner-title-name">
-                            <h2 class="site-text-primary">Joint Ventures</h2>
+                            <h2 class="site-text-primary">People Operation</h2>
                         </div>
                     </div>
                     <!-- BREADCRUMB ROW -->
@@ -18,7 +17,7 @@
                         <ul class="wt-breadcrumb breadcrumb-style-2">
                             <li><a href="javascript:void(0);">Home</a></li>
                             <li>Services</li>
-                            <li>Joint ventures</li>
+                            <li>People operation</li>
 
                         </ul>
                     </div>
@@ -30,7 +29,7 @@
         <!-- INNER PAGE BANNER END -->
 
         <!-- ALL SERVICES START -->
-        <div class="section-full p-t80 p-b40 bg-no-repeat bg-bottom-right bg-cover" style="background-image:url(<?php echo base_url('assets/images/background/bg-7.jpg') ?>)">
+        <div class="section-full p-t80 p-b40 bg-no-repeat bg-bottom-right bg-cover" style="background-image:url(<?php echo base_url('assets/images/background/bg-7.jpg') ?>);">
             <div class="container">
                 <div class="section-content">
 
@@ -41,7 +40,7 @@
                             <div>Lorem ipsum dolor sit amet.</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, ratione.!</h2>
+                        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae, vero.</h2>
                     </div>
                     <!-- TITLE END-->
 
@@ -52,37 +51,45 @@
                                 <div class="wt-box service-box-1 bg-white">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Joint </span>
-                                        <span class="s-title-two">Ventures</span>
+                                        <span class="s-title-one">Recruitment</span>
+
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Setting up joint ventures and /or strategic alliances in India or overseas.</p>
+                                        <p>Ensuring recruitment of personnel ranging from top positions for white collar employees to blue collar employees pan-India or overseas.</p>
                                     </div>
-
-                                   
 
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
+                            <div class="service-border-box">
+                                <div class="wt-box service-box-1 bg-white">
 
+                                    <div class="service-box-title title-style-2 site-text-secondry">
+                                        <span class="s-title-one">Representation </span> <span class="s-title-one">
+                                            Operations Management</span>
 
+                                    </div>
+                                    <div class="service-box-content">
+                                        <p>Our Team ensures seamless operations of your premises in India or overseas. Your premises, operated by us and aligned to your goals.
+                                        </p>
+                                    </div>
 
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- ALL SERVICES SECTION END -->
-
-      <!-- TESTIMONIAL SECTION START -->
-      <?php $this->load->view('kamafics/layout/testimonial');?>
+        <!-- TESTIMONIAL SECTION START -->
+        <?php $this->load->view('Kmafics/layout/testimonial'); ?>
         <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
-      <?php $this->load->view('kamafics/layout/vision');?>
+        <?php $this->load->view('Kmafics/layout/vision'); ?>
         <!-- VISION SECTION END -->
-
-
-
 
 
     </div>

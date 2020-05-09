@@ -21,93 +21,106 @@ class ControlUnit extends CI_Controller
 	 */
 	public function index()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/index');
-		$this->load->view('kamafics/layout/footer');
+		// $this->load->view('Kmafics/layout/header');
+		// $this->load->view('Kmafics/index');
+		// $this->load->view('Kmafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/index2');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 	public function aboutus()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/about-us');
-		$this->load->view('kamafics/layout/footer');
+
+		$this->load->view('Kmafics/layout/header2');
+
+		// $this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/about-us');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function whoweare()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/about-us');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+
+		// $this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/about-us');
+		// $this->load->view('Kmafics/layout/footer');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 	public function milestone()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/milestone');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+
+		// $this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/milestone');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 
 	public function Industries()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/Industries');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+
+		// $this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/Industries');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function contactus()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/contact-us');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/contact-us');
+		$this->load->view('Kmafics/layout/footer');
 	}
 
 	// services
 	public function indiamarketentry()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/services/india-market-entry');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/services/india-market-entry');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function jointventures()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/services/joint-ventures');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/services/joint-ventures');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function legal()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/services/legal');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/services/legal');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function peopleoperations()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/services/people-operations');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/services/people-operations');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function technologytransfer()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/services/technology-transfer');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/services/technology-transfer');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function termcondition()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/term-condition');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/term-condition');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 	public function privacypolicy()
 	{
-		$this->load->view('kamafics/layout/header');
-		$this->load->view('kamafics/pages/privacy-policy');
-		$this->load->view('kamafics/layout/footer');
+		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('Kmafics/pages/privacy-policy');
+		$this->load->view('Kmafics/layout/footer2');
 	}
 
 

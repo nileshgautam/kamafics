@@ -37,7 +37,7 @@
                                     <div class="left wt-small-separator-outer">
                                         <div class="wt-small-separator site-text-primary">
                                             <div class="sep-leaf-left"></div>
-                                            <div>Welcome to kamafics</div>
+                                            <div>Welcome to Kmafics</div>
                                             <div class="sep-leaf-right"></div>
                                         </div>
                                     </div>

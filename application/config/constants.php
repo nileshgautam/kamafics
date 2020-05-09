@@ -86,9 +86,9 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 
 // customise 
-define('COMPANYNAME', 'kamafics'); // company name
+define('COMPANYNAME', 'Kmafics'); // company name
 define('ADD', '1226-30, 12th Floor, Sec-48 JMD Megapolis, Sohna Road Gurgaon Gurgaon HR 122018 IN'); // ADDRESS 
-define('PHONE', '+91 7720877200'); // PHONE
+define('PHONE', '(+91) 772-087-7200'); // PHONE
 define('EMAIL', 'admin@kmafics.in'); // EMAIL
 define('SENDEREMAIL', 'nileshwephyre@gmail.com'); // EMAIL
 define('SENDERPASSWORD', 'gautam@1990'); // EMAIL

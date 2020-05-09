@@ -171,11 +171,11 @@
 
 
         <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('kamafics/layout/testimonial'); ?>
+        <?php $this->load->view('Kmafics/layout/testimonial'); ?>
         <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
-        <?php $this->load->view('kamafics/layout/vision'); ?>
+        <?php $this->load->view('Kmafics/layout/vision'); ?>
         <!-- VISION SECTION END -->
 
 

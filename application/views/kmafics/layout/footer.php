@@ -181,7 +181,7 @@
                                      <div class="wt-icon-box-wraper left icon-shake-outer">
                                          <div class="icon-content">
                                              <h4 class="m-t0">Email address</h4>
-                                             <p>admin@kamafics.com</p>
+                                             <p>admin@Kmafics.com</p>
 
                                          </div>
                                      </div>

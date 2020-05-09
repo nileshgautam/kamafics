@@ -19,7 +19,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url('assets/') ?>images/favicon.png" />
 
     <!-- PAGE TITLE HERE -->
-    <title>Kamafics</title>
+    <title>Kmafics</title>
 
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,9 +60,12 @@
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&amp;display=swap" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&amp;display=swap" rel="stylesheet">
 
+    
 </head>
 
 <body>
@@ -194,7 +197,8 @@
 
                                     </ul>
                                 </li>
-                                <li><a href="<?php echo base_url('industries')?>">Industries</a>
+                                <li>
+                                    <a href="<?php echo base_url('industries')?>">Industries</a>
                                     
                                 </li>
                                 <!-- <li><a href="javascript:;">Shop</a>

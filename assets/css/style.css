@@ -5,7 +5,7 @@ Author: thewebmax team
 Version: 1.0  
 ==========================
 */
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 /*======================================
   || CSS TABLE CONTENT ||  
@@ -558,16 +558,20 @@ Version: 1.0
 /*======================================
 1. GENERAL 
 ======================================*/
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
 body {
 	background-color: #FFF;
-	font-family: 'Poppins', sans-serif;
+	/* font-family: 'Poppins', sans-serif; */
+	/* font-family: 'Cairo', sans-serif; */
+	/* font-family: 'Lato', sans-serif; */
+	font-family: 'Avenirltstd book', sans-serif;
+	font-family: 'Jost', sans-serif;
 	font-weight: 400;
 	color: #111111;
 	padding: 0;
 	margin: 0;
 	overflow-x: hidden;
-	font-size:16px;
+	font-size:15px;
 }
 
 a {
@@ -598,6 +602,8 @@ img {
 	max-width: 100%;
 	vertical-align: middle;
 }
+
+
 
 hr {
 	clear: both;
@@ -730,11 +736,11 @@ h4,
 h5,
 h6 {
 	margin-bottom: 15px;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	line-height:1.1;
 }
-.title-style-2{font-family: 'Teko', sans-serif;}
+.title-style-2{font-family: 'Open Sans', sans-serif;}
 
 h1 a,
 h2 a,
@@ -755,35 +761,35 @@ h6 a:hover {
 }
 
 h1 {
-	font-size: 66px;
+	font-size: 52px;
 	color: #00173c;
 	font-weight: 400;
 }
 
 h2 {
-	font-size: 52px;
+	font-size: 23px;
 	color: #00173c;
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 19px;
 	color: #00173c;
 }
 
 h4 {
-	font-size: 24px;
+	font-size: 15px;
 	color: #00173c;
 }
 
 h5 {
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 12px;
 	color: #00173c;
 }
 
 h6 {
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 10px;
 	color: #00173c;
 }
 
@@ -814,7 +820,7 @@ h6 {
 	content: attr(data-title);
 	color: #00173c;
 	opacity:0.1;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 120px;
 	line-height:100px;
 	bottom:-30px;
@@ -4362,7 +4368,7 @@ color:#111;
 
 .masonry-filter.link-style>li a {
 	font-size: 22px;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .masonry-filter.link-style.white>li:after {
@@ -4495,7 +4501,7 @@ color:#111;
 	overflow: hidden;
 }
 
-.wt-small-separator{font-family: 'Teko', sans-serif; font-size:34px;line-height:34px; margin-bottom:15px;position:relative; display:inline-block;}
+.wt-small-separator{font-family: 'Open Sans', sans-serif; font-size:34px;line-height:34px; margin-bottom:15px;position:relative; display:inline-block;}
 .wt-small-separator img{width:28px;vertical-align: baseline;}
 .wt-small-separator div{display:inline-block;}
 
@@ -5269,7 +5275,7 @@ div.sep-leaf-left:before{	display:none;}
 
 
 .testimonial-1-outer .hilite-large-title{position: absolute;    right: -1px;    bottom: -20px;    z-index: 1;}
-.testimonial-1-outer .hilite-large-title span {	font-size: 120px;	line-height: 100px;	color:#fff;	opacity: 1;	font-family: 'Teko', sans-serif;	display: block;
+.testimonial-1-outer .hilite-large-title span {	font-size: 120px;	line-height: 100px;	color:#fff;	opacity: 1;	font-family: 'Open Sans', sans-serif;	display: block;
 	text-transform: uppercase;	font-weight: 500;	letter-spacing: -2px;}
 	
 	
@@ -5355,7 +5361,7 @@ div.sep-leaf-left:before{	display:none;}
 
 
 .testimonial-2-outer .hilite-large-title{position: absolute; left: 0px; bottom: -20px; z-index: 1;}
-.testimonial-2-outer .hilite-large-title span {	font-size: 120px;	line-height: 100px;	color:#fff;	opacity: 1;	font-family: 'Teko', sans-serif;	display: block;
+.testimonial-2-outer .hilite-large-title span {	font-size: 120px;	line-height: 100px;	color:#fff;	opacity: 1;	font-family: 'Open Sans', sans-serif;	display: block;
 	text-transform: uppercase;	font-weight: 500;	letter-spacing: -2px;}	
 
 
@@ -6209,7 +6215,7 @@ div.sep-leaf-left:before{	display:none;}
 	position: relative;
 	display: inline-block;
 	font-size: 22px;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .wt-breadcrumb li a {
@@ -6783,7 +6789,7 @@ input[type=radio]:checked+label:before {
 	line-height: 20px;
 	display: block;
 	color: #fff;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	letter-spacing: 1px;
 }
@@ -7257,7 +7263,7 @@ blockquote p {
 	font-size: 30px;
 	line-height: 36px;
 	padding-left: 50px;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 blockquote strong {
@@ -7585,7 +7591,7 @@ blockquote .fa-quote-left {
 	font-size: 30px;
 	line-height: 36px;
 	padding-left: 0px;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .blog-post blockquote strong {
@@ -8194,7 +8200,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .date-style-2 .wt-post-info{position:relative;}
 
 .date-style-2 .wt-post-meta ul li{
-	 font-family: 'Teko', sans-serif;
+	 font-family: 'Open Sans', sans-serif;
 	 margin-right: 30px;
 }
 
@@ -8790,7 +8796,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-size: 32px;
 	line-height:32px;
 	color:#111;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 }
 .header-info .icon-content{
@@ -9479,7 +9485,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-style-2 .main-bar {	border-top:1px solid #ddd;	position: relative;	width: 100%;	padding:0px 0px;	-webkit-transition: all 0.5s ease;	-moz-transition: all 0.5s ease;	-ms-transition: all 0.5s ease;	-o-transition: all 0.5s ease;transition: all 0.5s ease;	background-color: #fff;}
 .header-style-2 .main-bar .container{	position:relative;}
 
-.header-style-2 .header-nav .nav > li > a {color:#111; display: block;}
+.header-style-2 .header-nav .nav > li > a {color:#111; display: block; font-size:20px}
 .header-style-2 .header-nav .nav > li > a:hover {color:#ff5e15;}
 
 .header-style-2 .header-nav-request{float:right;}
@@ -11991,7 +11997,7 @@ ol.commentlist li::after {
 	top: 50%;
 	left: 5px;
 	transform: translateY(-50%);
-	-webkit-transform:translateY(-50%;)
+	-webkit-transform:translateY(-50%);
 }
 .slider-social-info ul{
 	margin-bottom:0px;
@@ -13901,7 +13907,7 @@ Spin circle
 	font-size: 150px;
 	line-height: 150px;
 	font-weight: 900;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .page-notfound h4 {
 	font-size: 50px;
@@ -13959,7 +13965,7 @@ Spin circle
 	line-height: 150px;
 	font-weight: 900;
 	color:#111111;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .error-full-page-inner-info h4 {
 	font-size: 50px;
@@ -14308,7 +14314,7 @@ Spin circle
 	font-size: 14px;
 	margin: 0 5px 5px 0px;
 }
-}
+
 
 .site-button-small:hover {
 	opacity: 0.8;
@@ -14890,7 +14896,7 @@ textarea.form-control2 {
 }
 }
 
-.Call-btn{font-size:26px;font-family: 'Teko', sans-serif;}
+.Call-btn{font-size:26px;font-family: 'Open Sans', sans-serif;}
 @media only screen and (max-width:480px){
 	.Call-btn{font-size:14px;}
 }
@@ -14953,7 +14959,7 @@ textarea.form-control2 {
 	color: #00173c;
 	font-size: 106px;
 	font-weight: 500;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
 	line-height: 0px;
 	position: relative;
@@ -14964,7 +14970,7 @@ textarea.form-control2 {
 	color: #fff;
 	font-size: 120px;
 	font-weight: 500;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: inline-block;
 	background-color: #ff5e15;
 	line-height: 50px;
@@ -14978,9 +14984,9 @@ textarea.form-control2 {
 }
 
 .site-list-style-one li{
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color:#00173c;
-	font-size:24px;
+	font-size:20px;
 	position:relative;
     padding-left:30px;
 	font-weight: 500;
@@ -15015,7 +15021,7 @@ textarea.form-control2 {
 }
 /*Large Title*/
 .hilite-large-title{position:relative;}
-.hilite-large-title span{font-size:120px;line-height:100px;color:#00173c; opacity:0.1; font-family: 'Teko', sans-serif; display: inline-block;}
+.hilite-large-title span{font-size:120px;line-height:100px;color:#00173c; opacity:0.1; font-family: 'Open Sans', sans-serif; display: inline-block;}
 @media only screen and (max-width:991px){
 	.hilite-large-title span{
 		font-size:72px;
@@ -15066,7 +15072,7 @@ textarea.form-control2 {
 	color:#00173c;
 	font-size: 60px;
 	font-weight: 300;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	line-height: 60px;
 	position: relative;
@@ -15075,7 +15081,7 @@ textarea.form-control2 {
 	color:#ff5e15;
 	font-size: 100px;
 	font-weight: 500;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	line-height: 50px;
 }
@@ -15116,13 +15122,24 @@ textarea.form-control2 {
 .counter2-section-outer-top{padding-bottom: 50px;}
 
 .counter-section-outer-top{padding-top:50px; padding-bottom: 20px;}
-.counter-outer .counter{font-size:70px; position:relative; display:inline-block; margin-left: -30px;}
-.counter-outer .counter:after{font-size:70px; position:absolute;content:'+'; right:-30px;}
+.counter-outer .counter{
+    font-size: 39px;
+    position: relative;
+    display: inline-block;
+	margin-left: -30px;
+}
+.counter-outer .counter:after{
+	font-size: 39px;
+    position: absolute;
+	content: '+';
+
+	right:-30px;
+}
 
 
 
 .counter-outer span{
-	font-size:34px;
+	font-size:22px;
 	display:block;
 }
 
@@ -15321,7 +15338,7 @@ textarea.form-control2 {
     font-weight: 500;
     opacity: 0.5;
     display: block;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 .service-box-content{margin-bottom: 20px; border-bottom: 1px solid #ddd; padding-bottom: 20px;}
@@ -15631,7 +15648,7 @@ margin-bottom:0px;}
 	color:#00173c;
 	width: 140px;
 	display: inline-block;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	float:left;
 }
@@ -16099,7 +16116,7 @@ margin-bottom:0px;}
 	line-height: 100px;
 	color:#fff;
 	opacity: 1;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -16249,7 +16266,7 @@ margin-bottom:0px;}
 	line-height: 100px;
 	color:#fff;
 	opacity: 1;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	display: block;
 	text-transform: uppercase;
 	font-weight: 500;
@@ -16294,7 +16311,7 @@ margin-bottom:0px;}
 .project-stamp .project-stamp-list{border:2px solid #ff5e15; padding: 10px 10px;}
 .project-stamp .project-stamp-list li{display:block; margin-bottom:16px;border-bottom: 1px solid #e4e4e4;}
 .project-stamp .project-stamp-list li:last-child{margin-bottom:0px;border-bottom:0px;}
-.project-stamp .project-stamp-list li a{font-family: 'Teko', sans-serif; font-size:20px;}
+.project-stamp .project-stamp-list li a{font-family: 'Open Sans', sans-serif; font-size:20px;}
 .project-stamp .project-stamp-list li a i{color:#ff5e15; font-size: 24px; padding-right: 10px;}
 
 .project-2-block .wt-title{border-left:4px solid #ff5e15; padding:3px 0px 3px 10px}
@@ -16595,7 +16612,7 @@ ol.commentlist li .star-rating{
 }
 
 .site-list-style-two li{
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color:#00173c;
 	font-size:24px;
 	position:relative;
@@ -16943,7 +16960,7 @@ ol.commentlist li .star-rating{
     line-height: 100px;
     font-weight: 500;
     display: block;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 @media only screen and (max-width:767px){
 	.how-we-work-box{position:relative; z-index:1; margin: 0px;}
@@ -16991,7 +17008,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', end
 	font-weight: 500;
 	opacity: 1;
 	display: block;
-	font-family: 'Teko', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .box-style1:hover .wt-icon-number span{
 	color:#fff;
