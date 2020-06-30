@@ -21,106 +21,103 @@ class ControlUnit extends CI_Controller
 	 */
 	public function index()
 	{
-		// $this->load->view('Kmafics/layout/header');
-		// $this->load->view('Kmafics/index');
-		// $this->load->view('Kmafics/layout/footer');
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/index2');
-		$this->load->view('Kmafics/layout/footer2');
+		// $this->load->view('kmafics/layout/header');
+		// $this->load->view('kmafics/index');
+		// $this->load->view('kmafics/layout/footer');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/index2');
+		$this->load->view('kmafics/layout/footer2');
 	}
 	public function aboutus()
 	{
 
-		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('kmafics/layout/header2');
 
-		// $this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/about-us');
-		$this->load->view('Kmafics/layout/footer2');
+		// $this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/about-us');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function whoweare()
 	{
-		$this->load->view('Kmafics/layout/header2');
-
-		// $this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/about-us');
-		// $this->load->view('Kmafics/layout/footer');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/about-us');
+		$this->load->view('kmafics/layout/footer2');
 	}
 	public function milestone()
 	{
-		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('kmafics/layout/header2');
 
-		// $this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/milestone');
-		$this->load->view('Kmafics/layout/footer2');
+		// $this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/milestone');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 
 	public function Industries()
 	{
-		$this->load->view('Kmafics/layout/header2');
+		$this->load->view('kmafics/layout/header2');
 
-		// $this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/Industries');
-		$this->load->view('Kmafics/layout/footer2');
+		// $this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/Industries');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function contactus()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/contact-us');
-		$this->load->view('Kmafics/layout/footer');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/contact-us');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	// services
 	public function indiamarketentry()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/services/india-market-entry');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/india-market-entry');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function jointventures()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/services/joint-ventures');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/joint-ventures');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function legal()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/services/legal');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/legal');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function peopleoperations()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/services/people-operations');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/people-operations');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function technologytransfer()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/services/technology-transfer');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/technology-transfer');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function termcondition()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/term-condition');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/term-condition');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 	public function privacypolicy()
 	{
-		$this->load->view('Kmafics/layout/header2');
-		$this->load->view('Kmafics/pages/privacy-policy');
-		$this->load->view('Kmafics/layout/footer2');
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/privacy-policy');
+		$this->load->view('kmafics/layout/footer2');
 	}
 
 
@@ -144,6 +141,7 @@ class ControlUnit extends CI_Controller
 			$user['messages'] = $textmessage;
 			$user['email'] = $email;
 			$id = $this->CustomModel->insert($user);
+
 			//set up email
 			$config = array(
 				'protocol' => 'smtp',
@@ -171,22 +169,16 @@ class ControlUnit extends CI_Controller
 		   </body>
 		   </html>
 		   ";
+			//Sending email
+			$this->load->helper('email');
+			$mail = sentmail($email, $subject, $message);
 
-			$this->load->library('email', $config);
-			$this->email->set_newline("\r\n");
-			$this->email->from($config['smtp_user']);
-			$this->email->to(reciver);
-			$this->email->subject('noreply @ Lead from Website');
-			$this->email->message($message);
-
-			//sending email
-			if ($this->email->send()) {
-				echo json_encode(array('message' => 'Thank you for contacting us, our expert will call you shortly.', 'type' => 'success'), true);
+			if ($mail) {
+				echo json_encode(array('message' => 'Thank you for contacting with us!, our expert will contact you shortly.', 'type' => 'success'), true);
 			} else {
-				echo json_encode(array('message' => $this->email->print_debugger(), 'type' => 'error'), true);
+				echo json_encode(array('message' =>'Opps somting went wrong! try again', 'type' => 'error'), true);
 			}
 		}
-
 		//    redirect(__CLASS__.'/index');
 	}
 }

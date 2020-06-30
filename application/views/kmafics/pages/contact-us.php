@@ -100,7 +100,7 @@
                                                 <p><?php echo ADD ?></p>
                                             </div>
                                         </div>
-
+<!-- 
                                         <div class="wt-icon-box-wraper left">
 
                                             <div class="icon-content">
@@ -111,7 +111,7 @@
                                                     <li>Sunday: Closed</li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                     </div>
 

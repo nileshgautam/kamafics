@@ -25,11 +25,11 @@
                               </ul>
                           </div>
                           <ul class="social-icons  wt-social-links footer-social-icon">
-                              <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                              <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                              <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                              <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                              <li><a href="javascript:void(0);" class="fa fa-linkedin"></a></li>
+
+                              <li><a href="https://www.facebook.com/Support-Underprivileged-Senior-Citizens-168491243179178/" class="fa fa-facebook" target="_blank"></a></li>
+                              <li><a href="https://www.linkedin.com/company/30245606" class="fa fa-linkedin" target="_blank"></a></li>
+                              <li><a href="https://www.youtube.com/channel/UCJLtquuewAgyLr7CieL0MUw" class="fa fa-youtube" target="_blank"></a></li>
+
                           </ul>
                       </div>
 
@@ -52,7 +52,7 @@
                                       <li>
                                           <a href="<?php echo base_url('service/legal') ?>">Legal
                                           </a>
-                                        
+
                                       </li>
 
                                       <li>
@@ -65,8 +65,8 @@
                                       <li>
                                           <a href="<?php echo base_url('service/technology-transfer') ?>">Technology Transfer
                                           </a>
-</li>
-<li>
+                                      </li>
+                                      <li>
                                           <a href="<?php echo base_url('service/india-market-entry') ?>">India market entry</a>
                                       </li>
 
@@ -114,8 +114,7 @@
   <!-- FOOTER END -->
 
   <!-- Get In Touch -->
-  <div class="contact-slide-hide bg-cover bg-no-repeat" 
-  style="background-image:url(<?php echo base_url('assets/images/background/bg-7.jpg') ?>)">
+  <div class="contact-slide-hide bg-cover bg-no-repeat" style="background-image:url(<?php echo base_url('assets/images/background/bg-7.jpg') ?>)">
       <div class="contact-nav">
           <a href="javascript:void(0)" class="contact_close">&times;</a>
           <div class="contact-nav-form">
@@ -195,7 +194,7 @@
                                       <div class="wt-icon-box-wraper left icon-shake-outer">
                                           <div class="icon-content">
                                               <h4 class="m-t0">Email address</h4>
-                                              <p><?php echo EMAIL?></p>
+                                              <p><?php echo EMAIL ?></p>
                                           </div>
                                       </div>
                                   </div>
