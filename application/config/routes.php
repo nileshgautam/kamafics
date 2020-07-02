@@ -57,6 +57,8 @@ $route['translate_uri_dashes'] = FALSE;
 $route['home'] = 'ControlUnit/index';
 $route['about-us'] = 'ControlUnit/aboutus';
 $route['industries'] = 'ControlUnit/Industries';
+// $route['industries/(:any)'] = 'ControlUnit/Industries/1';
+
 $route['who-we-are'] = 'ControlUnit/whoweare';
 $route['contact-us'] = 'ControlUnit/contactus';
 

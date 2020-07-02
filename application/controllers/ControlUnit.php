@@ -30,13 +30,10 @@ class ControlUnit extends CI_Controller
 	}
 	public function aboutus()
 	{
-
 		$this->load->view('kmafics/layout/header2');
-
 		// $this->load->view('kmafics/layout/header2');
 		$this->load->view('kmafics/pages/about-us');
-		$this->load->view('kmafics/layout/footer2');
-	}
+		$this->load->view('kmafics/layout/footer2');	}
 
 	public function whoweare()
 	{
@@ -47,17 +44,16 @@ class ControlUnit extends CI_Controller
 	public function milestone()
 	{
 		$this->load->view('kmafics/layout/header2');
-
 		// $this->load->view('kmafics/layout/header2');
 		$this->load->view('kmafics/pages/milestone');
 		$this->load->view('kmafics/layout/footer2');
 	}
 
 
-	public function Industries()
+	public function Industries($id=null)
 	{
+		// $id['id']=$id;
 		$this->load->view('kmafics/layout/header2');
-
 		// $this->load->view('kmafics/layout/header2');
 		$this->load->view('kmafics/pages/Industries');
 		$this->load->view('kmafics/layout/footer2');

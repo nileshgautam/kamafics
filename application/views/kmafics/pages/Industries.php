@@ -1,7 +1,7 @@
         <!-- CONTENT START -->
         <div class="page-content">
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/3.jpg')?>);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/3.jpg') ?>);">
                 <div class="overlay-main site-bg-secondry opacity-09"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -40,11 +40,10 @@
                         <!-- TITLE END-->
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
-
+                                <div class="service-border-box" id="language-services">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry ">
-                                            <span class="s-title-one">Language Services
+                                            <span class="s-title-one" id="language-services">Language Services
                                             </span>
                                             <!-- <span class="s-title-two">Engineering</span> -->
                                         </div>
@@ -59,8 +58,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50  ">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="packing">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Packing</span>
@@ -77,8 +76,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="weather">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Weather
@@ -97,8 +96,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50 ">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="metallurgical">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Metallurgical
@@ -114,15 +113,12 @@
                                     </div>
                                 </div>
                             </div>
-                           
-
-
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="solar">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
-                                            <span class="s-title-one">Solar
+                                            <span class="s-title-one">Solar Energy
                                             </span>
                                             <!-- <span class="s-title-two">Engineering</span> -->
                                         </div>
@@ -138,8 +134,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="sheet-metal">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Sheet Metal </span>
@@ -157,12 +153,11 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="telecommunication">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Telecommunication
-
                                             </span>
                                             <!-- <span class="s-title-two">Services</span> -->
                                         </div>
@@ -179,8 +174,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="moulds">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
 
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Moulds and Parts
@@ -204,8 +199,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="valves">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Valves
                                             </span>
@@ -219,8 +214,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="stone">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Stone</span>
                                         </div>
@@ -233,8 +228,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="foundary">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Foundary
                                             </span>
@@ -248,10 +243,10 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="sports">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
-                                            <span class="s-title-one">Sports
+                                            <span class="s-title-one">Sports Equipment
                                             </span>
                                         </div>
                                         <div class="service-box-content">
@@ -263,8 +258,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="tobacco">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Tobacco
                                             </span>
@@ -278,8 +273,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="lifting">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Lifting </span>
                                             <span class="s-title-two">Equipment</span>
@@ -293,8 +288,8 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
-                                <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
+                                <div class="service-border-box" id="clod-storage">
+                                    <div class="wt-box service-box-1 bg-grd mnh-300">
                                         <div class="service-box-title title-style-2 site-text-secondry">
                                             <span class="s-title-one">Cold Storage Systems</span>
                                             <span class="s-title-two">Storage Systems</span>
@@ -307,12 +302,11 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
-                                        <div class="service-box-title title-style-2 site-text-secondry">
-                                            <span class="s-title-one">Musical
+                                    <div class="wt-box service-box-1 bg-grd">
+                                        <div class="service-box-title title-style-2 site-text-secondry" id="musicial-equipment">
+                                            <span class="s-title-one" >Musical
                                             </span>
                                             <span class="s-title-two">Equipment</span>
                                         </div>
@@ -323,10 +317,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
+                            <div class="col-lg-12 col-md-6 col-sm-12">
                                 <div class="service-border-box">
-                                    <div class="wt-box service-box-1 bg-white mnh-300">
-                                        <div class="service-box-title title-style-2 site-text-secondry">
+                                    <div class="wt-box service-box-1 bg-grd">
+                                        <div class="service-box-title title-style-2 site-text-secondry" id="automotive">
                                             <span class="s-title-one">Automotive</span>
                                         </div>
                                         <div class="service-box-content">
@@ -346,9 +340,29 @@
                     </div>
                 </div>
             </div>
-
-
-
-
         </div>
         <!-- CONTENT END -->
+        <script>
+            // window.addEventListener("load", function(event) {
+                // var scroll = this.scrollY;
+                // console.log(scroll)
+                // console.log("The URL of this page is: " + window.location.href);
+
+                // var url = document.location.href;
+                // var urlparts = url.split('#');
+                // let sectionId = document.getElementById(urlparts[1]);
+                //   console.log(sectionId);
+                // let scrollY=  sectionId.offsetTop;
+                // sectionId.focus();
+                // $(document).scrollTop(scrollY);
+
+                //   console.log(sectionId.offsetTop
+            // });
+            // $(window).scroll(function() {
+            //     if ($(this).scrollTop() > 100) {
+            //         $('#header').addClass('header-scrolled');
+            //     } else {
+            //         $('#header').removeClass('header-scrolled');
+            //     }
+            // });
+        </script>

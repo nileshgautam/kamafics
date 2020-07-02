@@ -100,11 +100,11 @@
         <!-- OUR PLAN US SECTION END -->
 
         <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('Kmafics/layout/testimonial');?>
+        <?php $this->load->view('kmafics/layout/testimonial');?>
         <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
-      <?php $this->load->view('Kmafics/layout/vision');?>
+      <?php $this->load->view('kmafics/layout/vision');?>
         <!-- VISION SECTION END -->
 
     </div>

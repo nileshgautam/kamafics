@@ -55,6 +55,8 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/plugins/revolution/revolution/css/navigation.css">
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Teko:300,400,500,600,700&amp;display=swap" rel="stylesheet">
@@ -215,10 +217,20 @@
             $(document).ready(function() {
 
                 if (!document.cookie) {
-                    $(".alert").alert();
-                    document.cookie = "status=true";
+                    let name = "status";
+                    let value = "true"
+                    let expireDate=2;
+                    setCookie(name, value, expireDate);
                 } else {
                     $(".alert").alert('close');
                 }
             });
+
+
+            function setCookie(cname, cvalue, exdays) {
+                var d = new Date();
+                d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+            }
         </script>

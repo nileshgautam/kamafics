@@ -69,3 +69,55 @@
     </div>
 
 </li>
+
+
+
+                        <!-- LAYER NR. 1 [ for overlay ] -->
+                        <div class="tp-caption tp-shape tp-shapewrapper" id="slide-901-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
+                             {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 1;background-color:rgba(0, 0, 0, 0.1);border-color:rgba(0, 0, 0, 0);border-width:0px;">
+                        </div>
+
+
+
+                         <!-- LAYER NR. 1 [ for overlay ] -->
+                         <div class="tp-caption tp-shape tp-shapewrapper " id="slide-902-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
+                             {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 1;background-color:rgba(0, 0, 0, 0.1);border-color:rgba(0, 0, 0, 0);border-width:0px;">
+                        </div>
+
+
+                        <!-- LAYER NR. 1 [ for overlay ] -->
+                        <div class="tp-caption tp-shape tp-shapewrapper " id="slide-902-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
+                             {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13;background-color:rgba(0, 0, 0, 0.1);border-color:rgba(0, 0, 0, 0);border-width:0px;">
+                        </div>
+
+
+                          <!-- LAYER NR. 1 [ for overlay ] -->
+                          <div class="tp-caption tp-shape tp-shapewrapper" id="slide-902-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
+                             {"from":"opacity:0;","speed":1000,"to":"o:1;","delay":0,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power4.easeOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 1;
+                             background-color:rgba(250, 250, 250, 0.1);
+                             border-color:rgba(0, 0, 0, 0);
+                             border-width:10px;">
+                        </div>
+
+
+                        <!-- Black line -->
+
+                        
+                        <!-- LAYER NR. 2 [ Black Box ] -->
+                        <div class="tp-caption   tp-resizeme site-text-primary" id="slide-901-layer-2" data-x="['left','left','left','left']" data-hoffset="['100','120','34','30']" data-y="['top','top','top','top']" data-voffset="['150','180','180','180']" data-fontsize="['48','48','48','34']" data-lineheight="['48','48','48','48']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                             {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[10,10,10,4]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,4]" data-paddingleft="[30,30,30,20]" style="z-index: 1; 
+                             white-space: normal; 
+                             font-weight: 300;
+                             font-family: 'Teko', sans-serif; border-left:8px solid #00173c">Support Globally
+
+                        </div>
