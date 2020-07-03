@@ -16643,10 +16643,24 @@ ol.commentlist li .star-rating{
 	color: #060000;
 }
 
-
-
 /* Custom */
 
+
+.mb-41{
+	margin-bottom: 41px !important;
+}
+.mn-133{
+	min-height: 133px !important;
+}
+.mn-110{
+	min-height: 110px !important;
+}
+.mn-126{
+	min-height: 126px !important;
+}
+.mn-131{
+    min-height: 131px !important;
+}
 .mn-328{
 	min-height: 328px !important;
 }
@@ -16655,25 +16669,22 @@ ol.commentlist li .star-rating{
 }
 .mt-66{
     margin-top: 66px !important;
-
 }
 .mb-1{
 	margin-bottom: 1px !important;
 }
-
 .ml-23{
 	margin-left: 23% !important;
 }
-
 .ml-30{
 	margin-left: 35% !important;
 }
 .bg-grd {
 	/* height: 200px; */
-	background-color: #fff1f3; /* For browsers that do not support gradients */
+	background-color: #fff1f3; 
+	/* For browsers that do not support gradients */
 	/* background-image: linear-gradient(#ffe9ec, rgba(43, 255, 0, 0.014));
 	 Standard syntax (must be last) */
-
 	 background-image: linear-gradient(to right, #fff1f3, rgba(210, 248, 227, 0.164));
   }
 
