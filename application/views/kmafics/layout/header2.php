@@ -224,6 +224,8 @@
                 } else {
                     $(".alert").alert('close');
                 }
+                return false;
+                
             });
 
 

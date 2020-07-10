@@ -37,19 +37,19 @@
                                     <div class="left wt-small-separator-outer">
                                         <div class="wt-small-separator site-text-primary">
                                             <div class="sep-leaf-left"></div>
-                                            <div>Welcome to Kmafics</div>
+                                            <div>Welcome to KMAFICS</div>
                                             <div class="sep-leaf-right"></div>
                                         </div>
                                     </div>
-                                    <h2>Lorem ipsum dolor sit amet.</h2>
+                                    <!-- <h2>Lorem ipsum dolor sit amet.</h2> -->
                                     <!-- TITLE END-->
-                                    <ul class="site-list-style-one">
+                                    <!-- <ul class="site-list-style-one">
                                         <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
                                         <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
                                         <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
-                                    </ul>
+                                    </ul> -->
 
-                                    <p>We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.
+                                    <p class="p-20">We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.
                                     </p>
 
 
