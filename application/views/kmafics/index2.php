@@ -90,7 +90,7 @@
                              font-weight: 500; 
                              color:#00173c;
                              border-width:0px;font-family: 'Poppins', sans-serif;">
-                            Serving global leaders from The Americans and Europe in mapping and executing their India Market Entry Strategy.
+                            Serving global leaders in mapping and executing their India Market Strategy.
                         </div>
 
                         <!-- LAYER NR. 5 [ for see all service botton ] -->
@@ -108,9 +108,6 @@
                             <a href="<?php echo base_url('service/india-market-entry') ?>" class="site-button site-btn-effect">Know More</a>
 
                         </div>
-
-
-
                     </li>
 
                     <!-- SLIDE 3 -->
@@ -191,27 +188,27 @@
                         </div>
 
 
-                        <!-- LAYER NR. 2 [ Black Box ] -->
-                        <!-- <div class="tp-caption   tp-resizeme site-text-dark" id="slide-904-layer-2" data-x="['left','left','left','left']" data-hoffset="['100','120','34','30']" data-y="['top','top','top','top']" data-voffset="['180','180','180','180']" data-fontsize="['48','48','48','34']" data-lineheight="['48','48','48','48']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                        <!-- LAYER NR. 2 [ Black Box ]
+                        <div class="tp-caption   tp-resizeme site-text-dark" id="slide-904-layer-2" data-x="['left','left','left','left']" data-hoffset="['100','120','34','30']" data-y="['top','top','top','top']" data-voffset="['180','180','180','180']" data-fontsize="['48','48','48','34']" data-lineheight="['48','48','48','48']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                              {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},
                              {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                              ]' data-textAlign="['left','left','left','left']" data-paddingtop="[10,10,10,4]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,4]" data-paddingleft="[30,30,30,20]" style="z-index: 13; 
                              white-space: normal; 
                              font-weight: 300;
-                             font-family: 'Teko', sans-serif; border-left:8px solid #00173c">Growth</div> -->
+                             font-family: 'Teko', sans-serif; border-left:8px solid #00173c"></div> -->
 
                         <!-- LAYER NR. 3 [ for title ] -->
-                        <div class="tp-caption   tp-resizeme" id="slide-904-layer-3" data-x="['left','left','left','left']" data-hoffset="[100','120','30','30']" data-y="['top','top','top','top']" data-voffset="['180','280','280','260']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','48','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                        <div class="tp-caption   tp-resizeme" id="slide-904-layer-3" data-x="['left','left','left','left']" data-hoffset="[100','120','30','30']" data-y="['top','top','top','top']" data-voffset="['280','280','280','260']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','20','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                              {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
                              {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                              ]' data-textAlign="['left','left','left','left']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; 
                              white-space: normal; 
                              font-weight: 300;
                              color:#00173c;
-                             border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Growth</div>
+                             border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;"> Growth</div>
 
                         <!-- LAYER NR. 4 [ for paragraph] -->
-                        <div class="tp-caption  tp-resizeme" id="slide-904-layer-4" data-x="['left','left','left','left']" data-hoffset="['100','120','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['0','280','280','400']" data-fontsize="['25','25','25','20']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                        <div class="tp-caption  tp-resizeme" id="slide-904-layer-4" data-x="['left','left','left','left']" data-hoffset="['100','120','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['70','40','40','-10']" data-fontsize="['25','25','25','20']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
                              {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeOut"},
                              {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
                              ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; 
@@ -220,6 +217,32 @@
                              border-width:0px;font-family: 'Poppins', sans-serif;">
                             A track record of multi locational growth in India and overseas.
                         </div>
+
+                        <!-- LAYER NR. 3 [ for title ] -->
+                        <!-- <div class="tp-caption   tp-resizeme" id="slide-904-layer-3" data-x="['left','left','left','left']" data-hoffset="[100','120','30','30']" data-y="['top','top','top','top']" data-voffset="['180','280','280','260']" data-fontsize="['120','72','72','38']" data-lineheight="['100','66','48','38']" data-width="['700','700','96%','96%']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                             {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power4.easeOut"},
+                             {"delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[5,5,5,5]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; 
+                             white-space: normal; 
+                             font-weight: 300;
+                             color:#00173c;
+                             border-width:0px; font-family: 'Teko', sans-serif; text-transform:uppercase;">Growth</div> -->
+
+                        <!-- LAYER NR. 4 [ for paragraph] -->
+                        <!-- <div class="tp-caption  tp-resizeme" id="slide-904-layer-4" data-x="['left','left','left','left']" data-hoffset="['100','120','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['0','280','280','400']" data-fontsize="['25','25','25','20']" data-lineheight="['30','30','30','22']" data-width="['600','600','90%','90%']" data-height="['none','none','none','none']" data-whitespace="['normal','no0r..
+                        0mal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[
+                             {"from":"y:100px(R);opacity:0;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.e0aseOut"},
+                             {"
+                                
+                                
+                                
+                                delay":"wait","speed":1000,"to":"y:-50px;opacity:0;","ease":"Power2.easeInOut"}
+                             ]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 13; 
+                             font-weight: 500; 
+                             color:#00173c;
+                             border-width:0px;font-family: 'Poppins', sans-serif;">
+                            A track record of multi locational growth in India and overseas.
+                        </div> -->
 
                         <!-- LAYER NR. 5 [ for see all service botton ] -->
                         <div class="tp-caption tp-resizeme" id="slide-904-layer-5" data-x="['left','left','left','left']" data-hoffset="['100','120','30','30']" data-y="['middle','middle','middle','middle']" data-voffset="['160','130','130','80']" data-lineheight="['none','none','none','none']" data-width="['200','200','200','200']" data-height="['none','none','none','none']" data-whitespace="['normal','normal','normal','normal']" data-type="text" data-responsive_offset="on" data-frames='[ 
@@ -237,11 +260,11 @@
 
                         </div>
                     </li>
+
                 </ul>
                 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
             </div>
         </div>
-
     </div>
     <!-- SLIDER END -->
 
@@ -249,10 +272,10 @@
     <!-- TOP HALF SECTION START -->
     <div class=" small-device p-b40 top-half-section-outer bg-gray">
         <div class="container">
-          <!-- IMAGE CAROUSEL START -->
+            <!-- IMAGE CAROUSEL START -->
             <div class="section-content clearfix">
                 <div class="top-half-section">
-                    
+
                     <div class="row d-flex justify-content-center">
                         <div class="col-lg-4 col-md-6 m-b50">
                             <div class="service-border-box">
@@ -292,7 +315,7 @@
                                         <span class="s-title-two">Legal</span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Rendering all necessary regulatory support in India.</p>
+                                        <p>Rendering all necessary legal and regulatory support in India.</p>
                                         <a href="<?php echo base_url('service/legal') ?>" class="site-button-link">Read More</a>
                                     </div>
 
@@ -327,7 +350,7 @@
                                         <span class="s-title-two">Transfer</span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Assisting overseas entity in technology transfer with Indian entities.</p>
+                                        <p>Assisting overseas entities in technology transfer with Indian entities & vice versa</p>
                                         <a href="<?php echo base_url('service/technology-transfer') ?>" class="site-button-link mt-66">Read More</a>
                                     </div>
 
@@ -343,8 +366,8 @@
                                         <span class="s-title-two">and Advisory</span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Leverage our expertise for your organisation to work smarter, grow faster, build an effective organisations, reduce costs, manage risk and regulation and leverage talent.</p>
-                                        <a href="#" class="site-button-link ">Read More</a>
+                                        <p>Leverage our expertise for your organisation to work smarter, grow faster, build an effective organisation, reduce cost, manage risk & regulation and leverage talent.</p>
+                                        <a href="<?php echo base_url('service/consulting-and-advisory') ?>" class="site-button-link ">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -359,7 +382,6 @@
     <!-- PROJECTS SECTION START -->
     <div class="section-full p-t80 p-b50  overlay-wraper bg-cover bg-no-repeat" style="background-image:url(<?php echo base_url('assets/images/background/bg-5.jpg') ?>);">
         <div class="overlay-main site-bg-secondry opacity-07"></div>
-
         <div class="container">
             <!-- TITLE START-->
             <div class="section-head center wt-small-separator-outer text-center text-white">
@@ -368,52 +390,54 @@
                     <div>Industries</div>
                     <div class="sep-leaf-right"></div>
                 </div>
-                <h2>KMAFICS caters to the following industries:</h2>
+                <h2>KMAFICS sectoral reach:</h2>
             </div>
             <!-- TITLE END-->
 
-            <!-- <div class="section-content"> -->
+            <div class="section-content">
 
                 <div class="masonry-wrap row mfp-gallery project-stamp clearfix d-flex justify-content-center">
                     <!-- COLUMNS 1 -->
-                    <!-- <div class="stamp col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
-                        <div class="project-stamp-list bg-white">
+                    <div class="stamp col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
+                        <div class="project-stamp-list bg-gray">
                             <div class="filter-wrap">
                                 <ul class="filter-navigation masonry-filter text-uppercase">
-                                   
-                                <li class="active"><a data-filter="*" data-hover="All" href="#"><i class=""></i>All Projects</a></li>
 
-                                    <li><a data-filter=".cat-1" href="javascript:;"><i class=""></i>Automotive</a></li>
+                                    <li class="active"><a data-filter="*" data-hover="All" href="#">All Projects</a></li>
 
+                                    <li><a data-filter=".cat-1" href="javascript:;">Automotive</a></li>
 
-                                    <li><a data-filter=".cat-2" href="javascript:;"><i class="" aria-hidden="true"></i>Musical Equipment</a></li>
+                                    <li><a data-filter=".cat-2" href="javascript:;">Metallurgy</a></li>
 
+                                    <li><a data-filter=".cat-3" href="javascript:;">Musical Equipment</a></li>
 
-                                    <li><a data-filter=".cat-3" href="javascript:;"><i class=''></i>Solar Energy </a></li>
+                                    <li><a data-filter=".cat-4" href="javascript:;">Solar Energy </a></li>
 
-                                    <li><a data-filter=".cat-4" href="javascript:;"><i class=""></i>Sports Equipment</a></li>
+                                    <li><a data-filter=".cat-5" href="javascript:;">Sports Equipment</a></li>
 
-                                   
+                                    <li><a data-filter=".cat-6" href="javascript:;">Tobacco</a></li>
 
-                                    <li><a data-filter=".cat-5" href="javascript:;"><i class=""></i>Tobacco</a></li>
+                                    <li><a data-filter=".cat-7" href="javascript:;">Telecommunication</a></li>
 
-                                    <li><a data-filter=".cat-6" href="javascript:;"><i class=""></i>Telecommunication</a></li>
+                                    <li></li>
                                 </ul>
+
+                                <a href="<?php echo base_url('industries') ?>" class="know-more">Know more</a>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     <!-- COLUMNS 2 -->
-                    <div class="masonry-item  cat-1 col-xl-4 col-lg-4 col-md-6 col-sm-12 m-b30">
+                    <div class="masonry-item  cat-1 col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Automotive.jpg" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15">
-                                    <a href="#">Automotive</a>
-                                    <span class="wt-title ml-30">
-                                        <a href="<?php echo base_url('industries/#automotive') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                    <a href="<?php echo base_url('industries/#automotive') ?>" title="Know more" class="site-button-link ">Automotive</a>
+                                    <!-- <span class="wt-title ml-30">
+                                        <a href="" class="site-button-link ">Know more</a>
+                                    </span> -->
 
                                 </h4>
 
@@ -425,36 +449,51 @@
 
                     <!-- COLUMNS 3 -->
 
+                     <!-- COLUMNS 9 -->
+                     <div class="masonry-item  cat-2 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
+                        <div class="wt-box bg-white  p-a10 project-2-block">
+                            <div class="wt-thum-bx">
+                                <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.jpg" alt="">
+                            </div>
+                            <div class="wt-info">
+                                <h4 class="wt-title m-b0 m-t15"><a href="#" class="site-button-link " title="Know More">Metallurgy</a>
+                                    <!-- <span class="wt-title ml-23">
+                                        <a href="<?php echo base_url('industries/#metallurgical') ?>" class="site-button-link ">Know more</a>
+                                    </span> -->
+                                </h4>
+                            </div>
+                        </div>
+                    </div>
 
                     <!-- COLUMNS 4 -->
-                    <div class="masonry-item  cat-2 col-xl-4 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <div class="masonry-item  cat-3 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Musical Equipment.jpg" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15">
-                                    <a href="#">Musical Equipment</a>
+                                    <a href="<?php echo base_url('industries/#musicial-equipment') ?>" class="site-button-link" title="Know More">Musical Equipment</a>
 
-                                    <span class="wt-title ml-23">
+                                    <!-- <span class="wt-title ml-23">
                                         <a href="<?php echo base_url('industries/#musicial-equipment') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                    </span> -->
                                 </h4>
                             </div>
 
                         </div>
                     </div>
                     <!-- COLUMNS 5 -->
-                    <div class="masonry-item  cat-4 col-xl-4 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <div class="masonry-item  cat-4 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Sports Equipment.jpg" alt="">
                             </div>
                             <div class="wt-info">
-                                <h4 class="wt-title m-b0 m-t15"><a href="#">Sports Equipment</a>
-                                    <span class="wt-title ml-23">
+                                <h4 class="wt-title m-b0 m-t15"><a href="<?php echo base_url('industries/#sports') ?>" class="site-button-link " title="Know more">Sports Equipment</a>
+                                    <!-- <span class="wt-title ml-23">
                                         <a href="<?php echo base_url('industries/#sports') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                    </span> -->
                                 </h4>
                             </div>
 
@@ -462,69 +501,67 @@
                     </div>
                     <!-- COLUMNS 6 -->
 
-
                     <!-- COLUMNS 7 -->
-                    <div class="masonry-item  cat-3 col-xl-4 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <div class="masonry-item  cat-5 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Solar Energy.jpg" alt="">
                             </div>
                             <div class="wt-info">
-                                <h4 class="wt-title m-b0 m-t15"><a href="#">Solar Energy</a>
-                                    <span class="wt-title ml-30">
-                                        <a href="<?php echo base_url('industries/#solar') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                <h4 class="wt-title m-b0 m-t15"><a href="<?php echo base_url('industries/#solar') ?>" title="Know More" class="site-button-link">Solar Energy</a>
+                                    <!-- <span class="wt-title ml-30">
+                                        <a href="<?php echo base_url('industries/#solar') ?>" class="site-button-link">Know more</a>
+                                    </span> -->
                                 </h4>
                             </div>
-
                         </div>
                     </div>
-                    <div class="masonry-item  cat-5 col-xl-4 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <div class="masonry-item  cat-6 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Tobacco.jpg" alt="">
                             </div>
                             <div class="wt-info">
-                                <h4 class="wt-title m-b0 m-t15"><a href="#">Tobacco</a>
-                                    <span class="wt-title ml-30">
+                                <h4 class="wt-title m-b0 m-t15"><a href="<?php echo base_url('industries/#tobacco') ?>" title="Know More" class="site-button-link">Tobacco</a>
+                                    <!-- <span class="wt-title ml-30">
                                         <a href="<?php echo base_url('industries/#tobacco') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                    </span> -->
                                 </h4>
                             </div>
                         </div>
                     </div>
-
-
-
                     <!-- COLUMNS 8 -->
-                    <div class="masonry-item  cat-6 col-xl-4 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <div class="masonry-item  cat-7 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.jpg" alt="">
                             </div>
                             <div class="wt-info">
-                                <h4 class="wt-title m-b0 m-t15"><a href="#">Telecommunication</a>
-                                    <span class="wt-title ml-23">
+                                <h4 class="wt-title m-b0 m-t15">
+                                    <a href="<?php echo base_url('industries/#telecommunication') ?>" class="site-button-link" title="Know More">Telecommunication</a>
+                                    <!-- <span class="wt-title ml-23">
                                         <a href="<?php echo base_url('industries/#telecommunication') ?>" class="site-button-link ">Know more</a>
-                                    </span>
+                                    </span> -->
                                 </h4>
                             </div>
 
                         </div>
                     </div>
+                   
 
                 </div>
 
-            <!-- </div> -->
+            </div>
 
         </div>
 
     </div>
     <!-- PROJECTS SECTION  SECTION END -->
 
+
     <!-- ABOUT SECTION START -->
     <div class="section-full welcome-section-outer">
-        <div class="welcome-section-top bg-white p-t80 p-b50">
+        <div class="welcome-section-top bg-gray p-t80 p-b50">
             <div class="container">
                 <div class="row d-flex justify-content-center">
 
@@ -538,13 +575,6 @@
                                     <div class="sep-leaf-right"></div>
                                 </div>
                             </div>
-                            <!-- <h2>We Are Here to Increase Your Knowledge With Experience</h2> -->
-                            <!-- TITLE END-->
-                            <!-- <ul class="site-list-style-one">
-                                <li>Quality Control System , 100% Satisfaction Guarantee</li>
-                                <li>Unrivalled Workmanship, Professional and Qualified</li>
-                                <li>Environmental Sensitivity, Personalised Solutions</li>
-                            </ul> -->
 
                             <p class="p-20">Providing end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.</p>
 
@@ -569,59 +599,11 @@
         </div>
     </div>
     <!-- ABOUT SECTION  SECTION END -->
-
     <!-- VIDEO SECTION START -->
     <div class="section-full video2-counter-section p-t80 p-b40  overlay-wraper bg-cover bg-no-repeat" style="background-image:url(<?php echo base_url('assets/images/background/bg-2.jpg') ?>);">
         <div class="overlay-main bg-black opacity-05"></div>
 
         <div class="container">
-            <!-- TITLE START-->
-            <!-- <div class="section-head center wt-small-separator-outer text-center text-white">
-                <div class="wt-small-separator site-text-primary">
-                    <div class="sep-leaf-left"></div>
-                    <div>All Solutions</div>
-                    <div class="sep-leaf-right"></div>
-                </div>
-                <h2>Lorem ipsum dolor sit amet.</h2>
-            </div> -->
-            <!-- TITLE END-->
-<!-- 
-            <div class="counter2-section-outer-top">
-
-
-                <div class="row justify-content-center">
-
-                    <div class="col-lg-5 col-md-12 m-b30 ">
-                        <div class="video2-section-info bg-white site-text-secondry">
-                            <h3 class="wt-tilte site-text-secondry">The Best Solution For all industries</h3>
-                            <p>Seving an impressive list of long-term clients with experience and expertise in industries.</p>
-                            <a href="s-power-energy.html" class="site-button-link">Read More</a>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-7 col-md-12 m-b30">
-
-                        <div class="video-section2-outer mfp-gallery">
-                            <div class="video-section">
-                                <a href="https://www.youtube.com/watch?v=fgExvIUYg5w" class="mfp-video play-now">
-                                    <i class="icon fa fa-play"></i>
-                                    <span class="ripple"></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="video-section-blockquote">
-                            <i class="fa fa-quote-left"></i>
-                            <span class="q-author-detail site-text-white title-style-2">Many of Our SELF registered employees are requested an main preferred temporary staff when all service</span>
-                            <div class="q-author-name site-text-primary title-style-2">Farnandoz Biki, CEO</div>
-                        </div>
-
-                    </div>
-
-
-
-                </div>
-
-            </div> -->
 
             <div class="counter2-section-outer-bottom">
                 <div class="counter-outer">
@@ -630,7 +612,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30 ">
                             <div class="wt-icon-box-wraper center circle">
                                 <span class="counter site-text-primary">200</span>
-                                
+
                             </div>
                             <span class="site-text-white title-style-2">Projects Completed</span>
                         </div>
@@ -638,7 +620,7 @@
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="wt-icon-box-wraper center circle">
                                 <h2 class="counter site-text-primary">3000</h2>
-                                
+
                             </div>
                             <span class="site-text-white title-style-2">Employment Opportunities Created</span>
                         </div>
@@ -646,14 +628,14 @@
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="wt-icon-box-wraper center circle">
                                 <h2 class="counter site-text-primary">22</h2>
-                                
+
                             </div>
                             <span class="site-text-white title-style-2">Locations for Project Implementation in India</span>
                         </div>
 
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="wt-icon-box-wraper center circle">
-                                <h2 class="counter site-text-primary">30</h2> 
+                                <h2 class="counter site-text-primary">30</h2>
                             </div>
                             <span class="site-text-white title-style-2">Years of Operation</span>
                         </div>
@@ -667,8 +649,6 @@
 
     </div>
     <!-- VIDEO SECTION  SECTION END -->
-
-
 
     <!-- SELF INTRO SECTION START -->
     <div class="section-full self-intro-section-outer overlay-wraper" style="background-image:url(<?php echo base_url('assets/images/background/bg-6.jpg') ?>)">
@@ -748,124 +728,125 @@
     </div>
     <!-- SELF INTRO SECTION  END -->
 
+
     <!-- OUR BLOG START -->
-    <div class="section-full  p-t80 p-b50 bg-white blog-post-outer-2">
-        <div class="container">
+    <div class="section-full  p-t80 p-b50 bg-gray blog-post-outer-2">
 
-            <div class="wt-separator-two-part">
-                <div class="row wt-separator-two-part-row d-flex justify-content-center">
-                    <div class="col-lg-8 col-md-7 wt-separator-two-part-left m-b30">
-                        <!-- TITLE START-->
-                        <div class="section-head left wt-small-separator-outer">
-                            <div class="wt-small-separator site-text-primary">
-                                <div class="sep-leaf-left"></div>
-                                <div>Latest Articles Updated Daily</div>
-                                <div class="sep-leaf-right"></div>
-                            </div>
-                            <h2>We Are Here To Learn You More From Blog</h2>
-                        </div>
-                        <!-- TITLE END-->
+<div class="container">
+
+    <div class="wt-separator-two-part">
+        <div class="row wt-separator-two-part-row d-flex justify-content-center">
+            <div class="col-lg-8 col-md-7 wt-separator-two-part-left m-b30">
+                <!-- TITLE START-->
+                <div class="section-head left wt-small-separator-outer">
+                    <div class="wt-small-separator site-text-primary">
+                        <div class="sep-leaf-left"></div>
+                        <div>Latest Articles Updated Daily</div>
+                        <div class="sep-leaf-right"></div>
                     </div>
-                    <div class="col-lg-4 col-md-5 wt-separator-two-part-right text-right">
-                        <a href="#" class="site-button site-btn-effect">More Detail</a>
-                    </div>
+                    <h2>We Are Here To Learn You More From Blog</h2>
                 </div>
+                <!-- TITLE END-->
             </div>
-
-            <!-- BLOG SECTION START -->
-            <div class="section-content">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-lg-6 col-md-12 col-sm-12 m-b30">
-                        <!--Block one-->
-                        <div class="blog-post date-style-2">
-                            <div class="wt-post-media wt-img-effect zoom-slow">
-                                <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/thum1.jpg" alt=""></a>
-                            </div>
-                            <div class="wt-post-info bg-white p-t30">
-                                <div class="wt-post-meta ">
-                                    <ul>
-                                        <li class="post-category"><span>Materials</span> </li>
-                                        <li class="post-date">February 28, 2020</li>
-                                        <li class="post-comment">24 Comment</li>
-                                    </ul>
-                                </div>
-                                <div class="wt-post-title ">
-                                    <h3 class="post-title">Technology is important for your business, you use technology makes</h3>
-                                </div>
-                                <div class="wt-post-readmore ">
-                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 col-md-12 col-sm-12">
-                        <!--Block One-->
-                        <div class="blog-post date-style-2 blog-without-image">
-                            <div class="wt-post-info bg-white">
-                                <div class="wt-post-meta ">
-                                    <ul>
-                                        <li class="post-category"><span>Materials</span> </li>
-                                        <li class="post-date">February 28, 2020</li>
-                                        <li class="post-comment">24 Comment</li>
-                                    </ul>
-                                </div>
-                                <div class="wt-post-title ">
-                                    <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                                </div>
-                                <div class="wt-post-readmore ">
-                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Block Two-->
-                        <div class="blog-post date-style-2 blog-without-image">
-                            <div class="wt-post-info bg-white">
-                                <div class="wt-post-meta ">
-                                    <ul>
-                                        <li class="post-category"><span>Oil & Gas</span> </li>
-                                        <li class="post-date">February 28, 2020</li>
-                                        <li class="post-comment">24 Comment</li>
-                                    </ul>
-                                </div>
-                                <div class="wt-post-title ">
-                                    <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                                </div>
-                                <div class="wt-post-readmore ">
-                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Block Three-->
-                        <div class="blog-post date-style-2 blog-without-image">
-                            <div class="wt-post-info bg-white">
-                                <div class="wt-post-meta ">
-                                    <ul>
-                                        <li class="post-category"><span>Chemical</span> </li>
-                                        <li class="post-date">February 28, 2020</li>
-                                        <li class="post-comment">24 Comment</li>
-                                    </ul>
-                                </div>
-                                <div class="wt-post-title ">
-                                    <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                                </div>
-                                <div class="wt-post-readmore ">
-                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
+            <div class="col-lg-4 col-md-5 wt-separator-two-part-right text-right">
+                <a href="#" class="site-button site-btn-effect">More Detail</a>
             </div>
         </div>
-
     </div>
-    <!-- OUR BLOG END -->
 
+    <!-- BLOG SECTION START -->
+    <div class="section-content">
+        <div class="row d-flex justify-content-center">
+            <div class="col-lg-6 col-md-12 col-sm-12 m-b30">
+                <!--Block one-->
+                <div class="blog-post date-style-2">
+                    <div class="wt-post-media wt-img-effect zoom-slow">
+                        <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/thum1.jpg" alt=""></a>
+                    </div>
+                    <div class="wt-post-info bg-white p-t30">
+                        <div class="wt-post-meta ">
+                            <ul>
+                                <li class="post-category"><span>Materials</span> </li>
+                                <li class="post-date">February 28, 2020</li>
+                                <li class="post-comment">24 Comment</li>
+                            </ul>
+                        </div>
+                        <div class="wt-post-title ">
+                            <h3 class="post-title">Technology is important for your business, you use technology makes</h3>
+                        </div>
+                        <div class="wt-post-readmore ">
+                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <!--Block One-->
+                <div class="blog-post date-style-2 blog-without-image">
+                    <div class="wt-post-info bg-white">
+                        <div class="wt-post-meta ">
+                            <ul>
+                                <li class="post-category"><span>Materials</span> </li>
+                                <li class="post-date">February 28, 2020</li>
+                                <li class="post-comment">24 Comment</li>
+                            </ul>
+                        </div>
+                        <div class="wt-post-title ">
+                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
+                        </div>
+                        <div class="wt-post-readmore ">
+                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block Two-->
+                <div class="blog-post date-style-2 blog-without-image">
+                    <div class="wt-post-info bg-white">
+                        <div class="wt-post-meta ">
+                            <ul>
+                                <li class="post-category"><span>Oil & Gas</span> </li>
+                                <li class="post-date">February 28, 2020</li>
+                                <li class="post-comment">24 Comment</li>
+                            </ul>
+                        </div>
+                        <div class="wt-post-title ">
+                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
+                        </div>
+                        <div class="wt-post-readmore ">
+                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block Three-->
+                <div class="blog-post date-style-2 blog-without-image">
+                    <div class="wt-post-info bg-white">
+                        <div class="wt-post-meta ">
+                            <ul>
+                                <li class="post-category"><span>Chemical</span> </li>
+                                <li class="post-date">February 28, 2020</li>
+                                <li class="post-comment">24 Comment</li>
+                            </ul>
+                        </div>
+                        <div class="wt-post-title ">
+                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
+                        </div>
+                        <div class="wt-post-readmore ">
+                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+</div>
+<!-- OUR BLOG END -->
 
 </div>
 

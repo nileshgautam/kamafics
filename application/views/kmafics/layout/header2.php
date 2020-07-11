@@ -55,7 +55,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/plugins/revolution/revolution/css/navigation.css">
-    
+
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
     <!-- GOOGLE FONTS -->
@@ -115,7 +115,8 @@
 
                 </div>
             </div>
-            <div class="sticky-header main-bar-wraper  navbar-expand-lg">
+
+            <div class="sticky-header main-bar-wraper navbar-expand-lg">
                 <div class="main-bar">
                     <div class="container clearfix">
 
@@ -164,13 +165,22 @@
                                 </li>
                                 <li><a href="javascript:;">Services</a>
                                     <ul class="sub-menu">
+
+
+                                        <li><a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
+                                                and Advisory</a></li>
+
                                         <li><a href="<?php echo base_url('service/india-market-entry') ?>">India Market Entry</a></li>
-                                        <li><a href="<?php echo base_url('service/legal') ?>">Legal
-                                            </a></li>
-                                        <li><a href="<?php echo base_url('service/people-operations') ?>">People Operations
-                                            </a></li>
+
                                         <li><a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
                                             </a></li>
+
+                                        <li><a href="<?php echo base_url('service/people-operations') ?>">People Operations
+                                            </a></li>
+
+                                        <li><a href="<?php echo base_url('service/legal') ?>">Quasi Legal
+                                            </a></li>
+
                                         <li><a href="<?php echo base_url('service/technology-transfer') ?>">Technology Transfer
                                             </a></li>
 
@@ -219,13 +229,13 @@
                 if (!document.cookie) {
                     let name = "status";
                     let value = "true"
-                    let expireDate=2;
+                    let expireDate = 2;
                     setCookie(name, value, expireDate);
                 } else {
                     $(".alert").alert('close');
                 }
                 return false;
-                
+
             });
 
 

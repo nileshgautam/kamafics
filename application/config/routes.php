@@ -68,6 +68,8 @@ $route['service/legal'] = 'ControlUnit/legal';
 $route['service/joint-ventures'] = 'ControlUnit/jointventures';
 $route['service/people-operations'] = 'ControlUnit/peopleoperations';
 $route['service/technology-transfer'] = 'ControlUnit/technologytransfer';
+$route['service/consulting-and-advisory'] = 'ControlUnit/consultingandadvisory';
+
 $route['about-us/milestone'] = 'ControlUnit/milestone';
 $route['term-condition'] = 'ControlUnit/termcondition';
 $route['privacy-policy'] = 'ControlUnit/privacypolicy';

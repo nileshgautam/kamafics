@@ -116,6 +116,14 @@ class ControlUnit extends CI_Controller
 		$this->load->view('kmafics/layout/footer2');
 	}
 
+	public function consultingandadvisory()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/consulting-and-advisory');
+		$this->load->view('kmafics/layout/footer2');
+	}
+
+
 
 
 	// user registration
