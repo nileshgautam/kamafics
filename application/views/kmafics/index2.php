@@ -336,8 +336,6 @@
                                         <p>Assisting overseas entity in locating and closing co-venture & joint ventures in India.</p>
                                         <a href="<?php echo base_url('service/joint-ventures') ?>" class="site-button-link mt-66">Read More</a>
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
@@ -449,8 +447,8 @@
 
                     <!-- COLUMNS 3 -->
 
-                     <!-- COLUMNS 9 -->
-                     <div class="masonry-item  cat-2 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
+                    <!-- COLUMNS 9 -->
+                    <div class="masonry-item  cat-2 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
                                 <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.jpg" alt="">
@@ -547,7 +545,7 @@
 
                         </div>
                     </div>
-                   
+
 
                 </div>
 
@@ -732,121 +730,123 @@
     <!-- OUR BLOG START -->
     <div class="section-full  p-t80 p-b50 bg-gray blog-post-outer-2">
 
-<div class="container">
+        <div class="container">
 
-    <div class="wt-separator-two-part">
-        <div class="row wt-separator-two-part-row d-flex justify-content-center">
-            <div class="col-lg-8 col-md-7 wt-separator-two-part-left m-b30">
-                <!-- TITLE START-->
-                <div class="section-head left wt-small-separator-outer">
-                    <div class="wt-small-separator site-text-primary">
-                        <div class="sep-leaf-left"></div>
-                        <div>Latest Articles Updated Daily</div>
-                        <div class="sep-leaf-right"></div>
+            <div class="wt-separator-two-part">
+                <div class="row wt-separator-two-part-row d-flex justify-content-center">
+                    <div class="col-lg-8 col-md-7 wt-separator-two-part-left m-b30">
+                        <!-- TITLE START-->
+                        <div class="section-head left wt-small-separator-outer">
+                            <div class="wt-small-separator site-text-primary">
+                                <div class="sep-leaf-left"></div>
+                                <div>KMAFICS Forum</div>
+                                <div class="sep-leaf-right"></div>
+                            </div>
+                            <h2> Insights about the development globally and pan-India</h2>
+                        </div>
+                        <!-- TITLE END-->
                     </div>
-                    <h2>We Are Here To Learn You More From Blog</h2>
+                    <div class="col-lg-4 col-md-5 wt-separator-two-part-right text-right">
+                        <!-- <a href="#" class="site-button site-btn-effect">More Detail</a> -->
+                    </div>
                 </div>
-                <!-- TITLE END-->
             </div>
-            <div class="col-lg-4 col-md-5 wt-separator-two-part-right text-right">
-                <a href="#" class="site-button site-btn-effect">More Detail</a>
+
+            <!-- BLOG SECTION START -->
+            <div class="section-content">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12 m-b30">
+                        <!--Block one-->
+                        <div class="blog-post date-style-2">
+                            <div class="wt-post-media wt-img-effect zoom-slow">
+                                <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/thum1.jpg" alt=""></a>
+                            </div>
+                            <div class="wt-post-info bg-white p-t30">
+                                <div class="wt-post-meta p-2">
+                                    <ul>
+                                        <!-- <li class="post-category"><span>Materials</span> </li> -->
+                                        <li class="post-date">Make In India</li>
+                                        <!-- <li class="post-comment">24 Comment</li> -->
+                                    </ul>
+                                </div>
+                                <div class="wt-post-title p-2">
+                                    <h3 class="post-title">Measures taken by Government of India to increase the Ease of Doing Business quotient for companies looking to establish their presence in India.</h3>
+                                </div>
+                                <div class="wt-post-readmore ">
+                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <!--Block One-->
+                        <div class="blog-post date-style-2 blog-without-image">
+                            <div class="wt-post-info bg-white">
+                                <div class="wt-post-meta ">
+                                    <ul>
+                                        <li class="post-category"><span>Work</span> </li>
+                                        <li class="post-date">Workplaces after Covid-19</li>
+                                        <!-- <li class="post-comment">24 Comment</li> -->
+                                    </ul>
+                                </div>
+                                <div class="wt-post-title ">
+                                    <h3 class="post-title">Evolution of workplaces during and after the pandemic.</h3>
+                                </div>
+                                <div class="wt-post-readmore ">
+                                    <a href="#" class="site-button-link black">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Block Two-->
+                        <div class="blog-post date-style-2 blog-without-image">
+                            <div class="wt-post-info bg-white">
+                                <div class="wt-post-meta ">
+                                    <ul>
+                                        <li class="post-category"><span>Global</span></li>
+                                        <li class="post-date">The Curious Case of Global Indices</li>
+                                        <!-- <li class="post-comment">24 Comment</li> -->
+                                    </ul>
+                                </div>
+                                <div class="wt-post-title ">
+                                    <h3 class="post-title">What is driving the market recovery? The Curious Case of Global Indices</h3>
+                                </div>
+                                <div class="wt-post-readmore ">
+                                    <a href="#" class="site-button-link black">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--Block Three-->
+                        <div class="blog-post date-style-2 blog-without-image">
+                            <div class="wt-post-info bg-white">
+                                <div class="wt-post-meta">
+                                    <ul>
+                                        <li class="post-category mb-88">
+                                            <span >Technology</span>
+                                        </li>
+                                        <li class="post-date">Augmented Reality</li>
+                                        <!-- <li class="post-comment">24 Comment</li> -->
+                                    </ul>
+                                </div>
+                                <div class="wt-post-title ">
+                                    <h3 class="post-title">Future or Fad?</h3>
+                                </div>
+                                <div class="wt-post-readmore">
+                                    <a href="#" class="site-button-link black">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
             </div>
         </div>
+
     </div>
-
-    <!-- BLOG SECTION START -->
-    <div class="section-content">
-        <div class="row d-flex justify-content-center">
-            <div class="col-lg-6 col-md-12 col-sm-12 m-b30">
-                <!--Block one-->
-                <div class="blog-post date-style-2">
-                    <div class="wt-post-media wt-img-effect zoom-slow">
-                        <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/thum1.jpg" alt=""></a>
-                    </div>
-                    <div class="wt-post-info bg-white p-t30">
-                        <div class="wt-post-meta ">
-                            <ul>
-                                <li class="post-category"><span>Materials</span> </li>
-                                <li class="post-date">February 28, 2020</li>
-                                <li class="post-comment">24 Comment</li>
-                            </ul>
-                        </div>
-                        <div class="wt-post-title ">
-                            <h3 class="post-title">Technology is important for your business, you use technology makes</h3>
-                        </div>
-                        <div class="wt-post-readmore ">
-                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-6 col-md-12 col-sm-12">
-                <!--Block One-->
-                <div class="blog-post date-style-2 blog-without-image">
-                    <div class="wt-post-info bg-white">
-                        <div class="wt-post-meta ">
-                            <ul>
-                                <li class="post-category"><span>Materials</span> </li>
-                                <li class="post-date">February 28, 2020</li>
-                                <li class="post-comment">24 Comment</li>
-                            </ul>
-                        </div>
-                        <div class="wt-post-title ">
-                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                        </div>
-                        <div class="wt-post-readmore ">
-                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Block Two-->
-                <div class="blog-post date-style-2 blog-without-image">
-                    <div class="wt-post-info bg-white">
-                        <div class="wt-post-meta ">
-                            <ul>
-                                <li class="post-category"><span>Oil & Gas</span> </li>
-                                <li class="post-date">February 28, 2020</li>
-                                <li class="post-comment">24 Comment</li>
-                            </ul>
-                        </div>
-                        <div class="wt-post-title ">
-                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                        </div>
-                        <div class="wt-post-readmore ">
-                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-                <!--Block Three-->
-                <div class="blog-post date-style-2 blog-without-image">
-                    <div class="wt-post-info bg-white">
-                        <div class="wt-post-meta ">
-                            <ul>
-                                <li class="post-category"><span>Chemical</span> </li>
-                                <li class="post-date">February 28, 2020</li>
-                                <li class="post-comment">24 Comment</li>
-                            </ul>
-                        </div>
-                        <div class="wt-post-title ">
-                            <h3 class="post-title">Explain to you why they work and what makes people click them</h3>
-                        </div>
-                        <div class="wt-post-readmore ">
-                            <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </div>
-</div>
-
-</div>
-<!-- OUR BLOG END -->
+    <!-- OUR BLOG END -->
 
 </div>
 

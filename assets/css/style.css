@@ -17435,6 +17435,10 @@ ol.commentlist li .star-rating {
 
 /* Custom */
 
+.mb-88{
+margin-bottom: -88px !important;
+}
+
 .know-more{
 	left: auto;
     display: flex;

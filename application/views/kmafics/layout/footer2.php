@@ -10,9 +10,6 @@
                   <div class="col-lg-4 col-md-12 col-sm-12">
                       <div class="footer-h-left">
                           <div class="widget widget_about">
-
-
-
                           </div>
                           <h3 class="widget-title">Contact Details</h3>
                           <div class="widget recent-posts-entry">
@@ -40,7 +37,7 @@
                           <div class="col-lg-7 col-md-4">
                               <div class="widget widget_about">
                                   <h3 class="widget-title">About us</h3>
-                                  <p>We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.</p>
+                                  <p>Providing end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.</p>
                               </div>
 
                           </div>
@@ -49,25 +46,25 @@
                               <div class="widget widget_services">
                                   <h3 class="widget-title">Our Services</h3>
                                   <ul>
-                                      <li>
-                                          <a href="<?php echo base_url('service/legal') ?>">Legal
-                                          </a>
 
+                                      <li>
+                                          <a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
+                                              and Advisory</a>
+
+                                          <a href="<?php echo base_url('service/india-market-entry') ?>">India market entry</a>
                                       </li>
-
                                       <li>
+                                          <a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
+                                          </a>
                                           <a href="<?php echo base_url('service/people-operations') ?>">People Operations
                                           </a>
 
-                                          <a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
-                                          </a>
                                       </li>
                                       <li>
+                                          <a href="<?php echo base_url('service/legal') ?>"> Quasi Legal
+                                          </a>
                                           <a href="<?php echo base_url('service/technology-transfer') ?>">Technology Transfer
                                           </a>
-                                      </li>
-                                      <li>
-                                          <a href="<?php echo base_url('service/india-market-entry') ?>">India market entry</a>
                                       </li>
 
                                   </ul>
