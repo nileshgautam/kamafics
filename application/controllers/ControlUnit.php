@@ -124,7 +124,43 @@ class ControlUnit extends CI_Controller
 	}
 
 
+	// Fourm section start
+	public function forum()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/services/forum/index');
+		$this->load->view('kmafics/layout/footer2');
+	}
 
+	public function global()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/forum/global');
+		$this->load->view('kmafics/layout/footer2');
+	}
+	
+	public function work()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/forum/work');
+		$this->load->view('kmafics/layout/footer2');
+	}
+
+	public function technology()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/forum/technology');
+		$this->load->view('kmafics/layout/footer2');
+	}
+
+	public function workaftercovid19()
+	{
+		$this->load->view('kmafics/layout/header2');
+		$this->load->view('kmafics/pages/forum/work-after-covid-19');
+		$this->load->view('kmafics/layout/footer2');
+	}
+
+	// Fourm section end
 
 	// user registration
 	public function postcontactDetails()

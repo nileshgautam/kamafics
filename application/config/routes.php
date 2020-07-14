@@ -62,7 +62,7 @@ $route['industries'] = 'ControlUnit/Industries';
 $route['who-we-are'] = 'ControlUnit/whoweare';
 $route['contact-us'] = 'ControlUnit/contactus';
 
-// services
+// services route url
 $route['service/india-market-entry'] = 'ControlUnit/indiamarketentry';
 $route['service/legal'] = 'ControlUnit/legal';
 $route['service/joint-ventures'] = 'ControlUnit/jointventures';
@@ -73,4 +73,11 @@ $route['service/consulting-and-advisory'] = 'ControlUnit/consultingandadvisory';
 $route['about-us/milestone'] = 'ControlUnit/milestone';
 $route['term-condition'] = 'ControlUnit/termcondition';
 $route['privacy-policy'] = 'ControlUnit/privacypolicy';
+
+// Start fourm route url
+$route['about-us/forum-global'] = 'ControlUnit/global';
+$route['about-us/forum-work'] = 'ControlUnit/work';
+$route['about-us/forum-technology'] = 'ControlUnit/technology';
+$route['about-us/forum-work-after-covid-19'] = 'ControlUnit/workaftercovid19';
+
 

@@ -397,7 +397,7 @@
                 <div class="masonry-wrap row mfp-gallery project-stamp clearfix d-flex justify-content-center">
                     <!-- COLUMNS 1 -->
                     <div class="stamp col-xl-3 col-lg-4 col-md-6 col-sm-12 m-b30">
-                        <div class="project-stamp-list bg-gray">
+                        <div class="project-stamp-list bg-white">
                             <div class="filter-wrap">
                                 <ul class="filter-navigation masonry-filter text-uppercase">
 
@@ -773,7 +773,7 @@
                                     <h3 class="post-title">Measures taken by Government of India to increase the Ease of Doing Business quotient for companies looking to establish their presence in India.</h3>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="blog-post-right-sidebar.html" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black p-2">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -794,7 +794,7 @@
                                     <h3 class="post-title">Evolution of workplaces during and after the pandemic.</h3>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="#" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -813,7 +813,7 @@
                                     <h3 class="post-title">What is driving the market recovery? The Curious Case of Global Indices</h3>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="#" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-global')?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -834,7 +834,7 @@
                                     <h3 class="post-title">Future or Fad?</h3>
                                 </div>
                                 <div class="wt-post-readmore">
-                                    <a href="#" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-technology')?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>

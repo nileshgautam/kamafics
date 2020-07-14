@@ -51,7 +51,7 @@
                                           <a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
                                               and Advisory</a>
 
-                                          <a href="<?php echo base_url('service/india-market-entry') ?>">India market entry</a>
+                                          <a href="<?php echo base_url('service/india-market-entry') ?>">India Market entry</a>
                                       </li>
                                       <li>
                                           <a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
