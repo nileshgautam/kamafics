@@ -451,7 +451,7 @@
                     <div class="masonry-item  cat-2 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
-                                <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.jpg" alt="">
+                                <img src="<?php echo base_url() ?>assets/images/project/square/Metallurgy.jpg" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15"><a href="#" class="site-button-link " title="Know More">Metallurgy</a>
@@ -503,7 +503,7 @@
                     <div class="masonry-item  cat-5 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
-                                <img src="<?php echo base_url() ?>assets/images/project/square/Solar Energy.jpg" alt="">
+                                <img src="<?php echo base_url() ?>assets/images/project/square/Solar Energy.png" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15"><a href="<?php echo base_url('industries/#solar') ?>" title="Know More" class="site-button-link">Solar Energy</a>
@@ -517,7 +517,7 @@
                     <div class="masonry-item  cat-6 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
-                                <img src="<?php echo base_url() ?>assets/images/project/square/Tobacco.jpg" alt="">
+                                <img src="<?php echo base_url() ?>assets/images/project/square/Tobacco.png" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15"><a href="<?php echo base_url('industries/#tobacco') ?>" title="Know More" class="site-button-link">Tobacco</a>
@@ -532,7 +532,7 @@
                     <div class="masonry-item  cat-7 col-xl-3 col-lg-4 col-md-6 col-sm-12  m-b30">
                         <div class="wt-box bg-white  p-a10 project-2-block">
                             <div class="wt-thum-bx">
-                                <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.jpg" alt="">
+                                <img src="<?php echo base_url() ?>assets/images/project/square/Telecommunication.png" alt="">
                             </div>
                             <div class="wt-info">
                                 <h4 class="wt-title m-b0 m-t15">
@@ -542,11 +542,8 @@
                                     </span> -->
                                 </h4>
                             </div>
-
                         </div>
                     </div>
-
-
                 </div>
 
             </div>
@@ -584,7 +581,7 @@
 
                     <div class="col-lg-6 col-md-12 m-b30">
                         <div class="img-colarge2">
-                            <div class="colarge-2 slide-right"><img src="<?php echo base_url() ?>assets/images/colarge/s2.jpg" alt=""></div>
+                            <div class="colarge-2 slide-right"><img src="<?php echo base_url() ?>assets/images/colarge/IT Employee.jpg" alt=""></div>
                             <div class="colarge-2-1"><img src="<?php echo base_url() ?>assets/images/colarge/s1.jpg" alt=""></div>
                             <div class="since-year-outer2">
                                 <div class="since-year2"><span>Since</span><strong>1987</strong></div>

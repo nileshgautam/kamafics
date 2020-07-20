@@ -75,7 +75,7 @@ $route['term-condition'] = 'ControlUnit/termcondition';
 $route['privacy-policy'] = 'ControlUnit/privacypolicy';
 
 // Start fourm route url
-$route['about-us/forum-global'] = 'ControlUnit/global';
+$route['about-us/forum-global'] = 'ControlUnit/global_categories';
 $route['about-us/forum-work'] = 'ControlUnit/work';
 $route['about-us/forum-technology'] = 'ControlUnit/technology';
 $route['about-us/forum-work-after-covid-19'] = 'ControlUnit/workaftercovid19';

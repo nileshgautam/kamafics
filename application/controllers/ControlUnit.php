@@ -132,7 +132,7 @@ class ControlUnit extends CI_Controller
 		$this->load->view('kmafics/layout/footer2');
 	}
 
-	public function global()
+	public function global_categories()
 	{
 		$this->load->view('kmafics/layout/header2');
 		$this->load->view('kmafics/pages/forum/global');

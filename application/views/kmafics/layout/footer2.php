@@ -48,23 +48,34 @@
                                   <ul>
 
                                       <li>
-                                          <a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
-                                              and Advisory</a>
+
 
                                           <a href="<?php echo base_url('service/india-market-entry') ?>">India Market entry</a>
+
+                                          <a href="<?php echo base_url('service/people-operations') ?>">People Operations
+                                          </a>
+
+
+
+
                                       </li>
                                       <li>
                                           <a href="<?php echo base_url('service/joint-ventures') ?>">Joint Ventures
                                           </a>
-                                          <a href="<?php echo base_url('service/people-operations') ?>">People Operations
+
+                                          <a href="<?php echo base_url('service/legal') ?>"> Quasi Legal
                                           </a>
+
+
 
                                       </li>
                                       <li>
-                                          <a href="<?php echo base_url('service/legal') ?>"> Quasi Legal
-                                          </a>
+
                                           <a href="<?php echo base_url('service/technology-transfer') ?>">Technology Transfer
                                           </a>
+                                          <a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
+                                              and Advisory</a>
+
                                       </li>
 
                                   </ul>
@@ -98,7 +109,7 @@
               <div class="wt-footer-bot-left d-flex justify-content-between">
                   <span class="copyrights-text">Prepared by <a class="site-text-primary" target="_blank" href="http://gennextit.com/">GennextIT</a></span>
                   <ul class="copyrights-nav">
-                      <li><a href="<?php echo base_url('term-condition') ?>">Terms &amp; Condition</a></li>
+                      <li><a href="<?php echo base_url('term-condition') ?>">Terms &amp; Conditions</a></li>
                       <li><a href="<?php echo base_url('privacy-policy') ?>">Privacy Policy</a></li>
                       <li><a href="<?php echo base_url('contact-us') ?>">Contact Us</a></li>
                   </ul>

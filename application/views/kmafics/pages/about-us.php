@@ -58,7 +58,7 @@
 
                             <div class="col-lg-6 col-md-12 m-b30">
                                 <div class="img-colarge2">
-                                    <div class="colarge-2 slide-right"><img src="<?php echo base_url('assets/') ?>images/colarge/s2.jpg" alt=""></div>
+                                    <div class="colarge-2 slide-right"><img src="<?php echo base_url('assets/') ?>images/colarge/IT Employee.jpg" alt=""></div>
                                     <div class="colarge-2-1"><img src="<?php echo base_url('assets/') ?>images/colarge/s1.jpg" alt=""></div>
                                     <div class="since-year-outer2">
                                         <div class="since-year2"><span>Since</span><strong>1987</strong></div>
