@@ -606,7 +606,7 @@
 
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30 ">
                             <div class="wt-icon-box-wraper center circle">
-                                <span class="counter site-text-primary">200</span>
+                                <h2 class="counter site-text-primary">200</h2>
 
                             </div>
                             <span class="site-text-white title-style-2">Projects Completed</span>
@@ -739,7 +739,7 @@
                                 <div>KMAFICS Forum</div>
                                 <div class="sep-leaf-right"></div>
                             </div>
-                            <h2> Insights about the development globally and pan-India</h2>
+                            <h3> Insights about the development globally and pan-India</h3>
                         </div>
                         <!-- TITLE END-->
                     </div>
@@ -767,7 +767,7 @@
                                     </ul>
                                 </div>
                                 <div class="wt-post-title p-2">
-                                    <h3 class="post-title">Measures taken by Government of India to increase the Ease of Doing Business quotient for companies looking to establish their presence in India.</h3>
+                                    <h4 class="post-title">Measures taken by Government of India to increase the Ease of Doing Business quotient for companies looking to establish their presence in India.</h4>
                                 </div>
                                 <div class="wt-post-readmore ">
                                     <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black p-2">Read More</a>
@@ -788,7 +788,7 @@
                                     </ul>
                                 </div>
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Evolution of workplaces during and after the pandemic.</h3>
+                                    <h4 class="post-title">Evolution of workplaces during and after the pandemic.</h4>
                                 </div>
                                 <div class="wt-post-readmore ">
                                     <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black">Read More</a>
@@ -796,24 +796,7 @@
                             </div>
                         </div>
 
-                        <!--Block Two-->
-                        <div class="blog-post date-style-2 blog-without-image">
-                            <div class="wt-post-info bg-white">
-                                <div class="wt-post-meta ">
-                                    <ul>
-                                        <li class="post-category"><span>Global</span></li>
-                                        <li class="post-date">The Curious Case of Global Indices</li>
-                                        <!-- <li class="post-comment">24 Comment</li> -->
-                                    </ul>
-                                </div>
-                                <div class="wt-post-title ">
-                                    <h3 class="post-title">What is driving the market recovery? The Curious Case of Global Indices</h3>
-                                </div>
-                                <div class="wt-post-readmore ">
-                                    <a href="<?php echo base_url('about-us/forum-global')?>" class="site-button-link black">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+                        
 
                         <!--Block Three-->
                         <div class="blog-post date-style-2 blog-without-image">
@@ -828,7 +811,7 @@
                                     </ul>
                                 </div>
                                 <div class="wt-post-title ">
-                                    <h3 class="post-title">Future or Fad?</h3>
+                                    <h4 class="post-title">Future or Fad?</h4>
                                 </div>
                                 <div class="wt-post-readmore">
                                     <a href="<?php echo base_url('about-us/forum-technology')?>" class="site-button-link black">Read More</a>

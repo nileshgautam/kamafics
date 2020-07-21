@@ -3234,6 +3234,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 .wt-icon-box-wraper.center {
 	text-align: center;
+	margin: auto;
 }
 
 .wt-icon-box-wraper.center .wt-icon-box-xld, .wt-icon-box-wraper.center .wt-icon-box-xl, .wt-icon-box-wraper.center .wt-icon-box-lg, .wt-icon-box-wraper.center .wt-icon-box-md, .wt-icon-box-wraper.center .wt-icon-box-sm, .wt-icon-box-wraper.center .wt-icon-box-xs {
@@ -8348,7 +8349,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 .logo-header-inner img {
-	max-width: 100%;
+	max-width: 65%;
 	max-height: 100%;
 }
 
@@ -8799,7 +8800,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-nav .nav>li .sub-menu li a {
 	color: #000;
 	display: block;
-	font-size: 13px;
+	font-size: 14px;
 	padding: 10px 20px;
 }
 
@@ -9447,7 +9448,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-style-2 .header-nav .nav>li>a {
 	color: #111;
 	display: block;
-	font-size: 20px
+	font-size: 18px
 }
 
 .header-style-2 .header-nav .nav>li>a:hover {
@@ -15651,6 +15652,7 @@ textarea.form-control2 {
 }
 
 .counter-outer span {
+	margin-top: 10px;
 	font-size: 17px;
 	display: block;
 	text-align: center;
@@ -17520,9 +17522,10 @@ margin-bottom: -88px !important;
 }
 
 .p-20{
-	font-size: 19px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
 	text-align: justify;
-	padding: 60px 0px;
+	padding: 60px 30px;
 }
 
 /*======================================

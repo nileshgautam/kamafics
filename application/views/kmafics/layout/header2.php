@@ -162,18 +162,18 @@
                                         <li><a href="<?php echo base_url('who-we-are') ?>">Who We Are?</a></li>
                                         <li><a href="<?php echo base_url('about-us/milestone') ?>">Milestones</a></li>
                                         <li><a href="<?php echo base_url('about-us/milestone') ?>">Kmafics Forum</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="<?php echo base_url('about-us/forum-global')?>">Global</a></li>
-                                            <li><a href="<?php echo base_url('about-us/forum-technology')?>">Technology</a></li>
-                                            <li><a href="<?php echo base_url('about-us/forum-work')?>">Work</a></li>
-                                        </ul>
-                                    </li>
+                                            <ul class="sub-menu">
+                                                <li><a href="<?php echo base_url('about-us/forum-global') ?>">Global</a></li>
+                                                <li><a href="<?php echo base_url('about-us/forum-technology') ?>">Technology</a></li>
+                                                <li><a href="<?php echo base_url('about-us/forum-work') ?>">Work</a></li>
+                                            </ul>
+                                        </li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:;">Services</a>
                                     <ul class="sub-menu">
                                         <li><a href="<?php echo base_url('service/consulting-and-advisory') ?>">Consulting
-                                        and Advisory</a></li>
+                                                and Advisory</a></li>
 
                                         <li><a href="<?php echo base_url('service/india-market-entry') ?>">India Market Entry</a></li>
 
@@ -231,6 +231,16 @@
         <script>
             $(document).ready(function() {
 
+                setTimeout(function() {
+
+                    checkallert()
+
+                }, 3000);
+            });
+
+
+            function checkallert() {
+                // $(".alert").alert();
                 if (!document.cookie) {
                     let name = "status";
                     let value = "true"
@@ -238,11 +248,10 @@
                     setCookie(name, value, expireDate);
                 } else {
                     $(".alert").alert('close');
+                    return false;
+
                 }
-                return false;
-
-            });
-
+            }
 
             function setCookie(cname, cvalue, exdays) {
                 var d = new Date();

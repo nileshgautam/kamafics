@@ -6,6 +6,12 @@
     li span {
         /* font-weight: bold !important; */
         color: #0C996E;
+        font-size: 15px;
+    }
+
+    li h3 span {
+        /* font-weight: bold !important; */
+        color: #0C996E;
         font-size: 18px;
     }
 
@@ -64,12 +70,10 @@
                             <div class="wt-box service-box-1 bg-white">
 
                                 <div class="service-box-title title-style-2 site-text-secondry">
-                                    <span class="s-title-one"> Privacy Policy | KMAFICS</span>
-                                    <!-- <span class="s-title-two"></span> -->
+                                    <span class="s-title-one"> <h3>Privacy Policy | KMAFICS</h3></span>
                                 </div>
                                 <div class="service-box-content">
                                     <p>
-
                                         At KMAFICS India, accessible from http://kmafics.com/, one of our main priorities is the privacy of our visitors. Our privacy policy contains types of information that is collected and recorded by KMAFICS India and how we use it.
 
                                     </p>
@@ -78,21 +82,21 @@
                                     </p>
                                     <p> The Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect at www.kmafics.com. This policy is not applicable to any information collected offline or via channels other than this website.
                                     </p>
-                                    <ul>
-                                        <li class="">
-                                            <h3 class="">Consent</h3>
+                                    <ol class="pl-2">
+                                        <li>
+                                            <h3 class=""><span>Consent</span></h3>
                                             <p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
                                         </li>
-                                        <ol>
+                                        <ul class="pl-5">
                                             <li>
                                                 <span>Information Collection:</span>
-                                                <p class="ml-2">The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, content of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
-                                                <p class="ml-2">When you register for an account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+                                                <p class="">The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, content of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+                                                <p class="">When you register for an account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
                                             </li>
                                             <li>
                                                 <span>Information Utilization</span>
                                                 <p>We use the information we collect in various ways, including:</p>
-                                                <ol class="roman ml-5">
+                                                <ol class="roman pl-5">
                                                     <li>Provide, operate, and maintain our website</li>
                                                     <li>Improve, personalize, and expand our website</li>
                                                     <li>Understand and analyse your website usage</li>
@@ -115,27 +119,24 @@
                                             </li>
 
                                         
-                                        </ol>
+                                        </ul>
 
                                         <li>
-                                       <h3>Advertising Partners Privacy Policies</h3> 
+                                       <h3> <span> Advertising Partners Privacy Policies</span></h3> 
                                         <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript or Web Beacons that are used in their respective advertisements and links that appear on www.kmafics.com, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit. Please note that www.kmafics.com has no access to or control over these cookies that are used by third-party advertisers.</p>
                                         </li>
                                         <li>
-                                            <h3>Third Party Privacy Policies</h3>
+                                            <h3> <span> Third Party Privacy Policies</span></h3>
                                             <p>www.kmafics.com's Privacy Policy does not apply to other advertisers or websites. Thus, we advise you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
                                             <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
                                         </li>
                                         <li>
-                                            <h3>Children’s Information</h3>
+                                            <h3><span>Children’s Information</span></h3>
                                             <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
                                             <p>www.kmafics.com does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will ensure this information is removed promptly.</p>
                                         </li>
-                                    </ul>
+                                    </ol>
                                 </div>
-
-
-
                             </div>
                         </div>
                     </div>
