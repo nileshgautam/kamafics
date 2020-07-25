@@ -770,7 +770,7 @@
                                     <h4 class="post-title">Measures taken by Government of India to increase the Ease of Doing Business quotient for companies looking to establish their presence in India.</h4>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black p-2">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-work') ?>" class="site-button-link black p-2">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -791,12 +791,29 @@
                                     <h4 class="post-title">Evolution of workplaces during and after the pandemic.</h4>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="<?php echo base_url('about-us/forum-work')?>" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-work') ?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>
 
-                        
+                        <!--Block Two-->
+                        <div class="blog-post date-style-2 blog-without-image">
+                            <div class="wt-post-info bg-white">
+                                <div class="wt-post-meta ">
+                                    <ul>
+                                        <li class="post-category"><span>Global</span> </li>
+                                        <li class="post-date">February 28, 2020</li>
+                                        <li class="post-comment">24 Comment</li>
+                                    </ul>
+                                </div>
+                                <div class="wt-post-title ">
+                                    <h3 class="post-title">What is driving the market recovery?</h3>
+                                </div>
+                                <div class="wt-post-readmore ">
+                                    <a href="<?php echo base_url('about-us/forum-global')?>" class="site-button-link black">Read More</a>
+                                </div>
+                            </div>
+                        </div>
 
                         <!--Block Three-->
                         <div class="blog-post date-style-2 blog-without-image">
@@ -804,7 +821,7 @@
                                 <div class="wt-post-meta">
                                     <ul>
                                         <li class="post-category mb-88">
-                                            <span >Technology</span>
+                                            <span>Technology</span>
                                         </li>
                                         <li class="post-date">Augmented Reality</li>
                                         <!-- <li class="post-comment">24 Comment</li> -->
@@ -814,7 +831,7 @@
                                     <h4 class="post-title">Future or Fad?</h4>
                                 </div>
                                 <div class="wt-post-readmore">
-                                    <a href="<?php echo base_url('about-us/forum-technology')?>" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-technology') ?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>

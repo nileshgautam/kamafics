@@ -1,7 +1,7 @@
         <!-- CONTENT START -->
         <div class="page-content">
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/3.jpg')?>);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/3.jpg') ?>);">
                 <div class="overlay-main site-bg-secondry opacity-09"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -49,8 +49,7 @@
                                         <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, fugit.</li>
                                     </ul> -->
 
-                                    <p class="p-20">We provide end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.
-                                    </p>
+                                    <p class="p-20">Providing end to end solutions for enterprises to set up and establish their businesses in India and for Indian firms to set up and establish their businesses overseas. Ranging from initial market entry surveys to land acquisition and management of operations in India and overseas. With an experience of over 30 years in EU, Americas and India, we are committed to increasing the 'Ease of Doing Business' quotient for you.</p>
 
 
                                 </div>
