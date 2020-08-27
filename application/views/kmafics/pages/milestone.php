@@ -1,4 +1,5 @@
         <!-- CONTENT START -->
+        <link rel="stylesheet" href="<?php echo base_url('assets/css/milestonenew.css') ?>">
         <div class="page-content">
             <!-- INNER PAGE BANNER -->
             <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/3.jpg') ?>);">
@@ -28,269 +29,159 @@
             <!-- INNER PAGE BANNER END -->
 
             <div class="section-full welcome-section-outer">
-                <ul class="timeline">
-
-                    <!-- Item 1 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2017</span>
-                                <span class="time-wrapper">
-                                    <!-- <span class="time">2017</span> -->
-                                </span>
+                <div class="roadmap" id="web">
+                    <div class="container">
+                        <!--path between 1-2-->
+                        <!-- <div class="circle-start">Start</div> -->
+                        <div class="row timeline">
+                            <!-- <div class="circle mt-c">5</div> -->
+                            <div class="col-2">
+                                <div class="corner-left top-right"></div>
                             </div>
-                            <div class="desc">Setting up an office space and factory of a Basque firm in West India</div>
-                        </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2016.</span>
-                                <span class="time-wrapper"></span>
+                            <div class="col-8">
+                                <hr class="hr-top" />
                             </div>
-                            <div class="desc">KMAFICS shifted to a bigger premises in JMD Megapolis</div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2015</span>
-                                <!-- <span class="time-wrapper"><span class="time">2015 - 2011</span></span> -->
-                            </div>
-                            <div class="desc">Setting up a factory of a Basque Company in Central India
-
+                            <div class="col-2">
+                                <div class="corner-right left-bottom"></div>
                             </div>
                         </div>
-                    </li>
 
-                    <!-- new -->
-                    <!-- Item 4 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2014</span>
-                                <!-- <span class="time-wrapper"><span class="time">2013 - present</span></span> -->
+                        <!--second section-->
+                        <div class="row align-items-center justify-content-end how-it-works d-flex">
+                            <!-- <div class="circle">2</div> -->
+                            <div class="col-4 text-center" style="position: absolute;
+    top: 99px;
+    left: 145px;">
+                                <!-- <div class="circle mt-c">        <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c">
+                    </div> -->
+                                <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c ">
+                                <div class="service-border-box">
+
+                                    <h5>Year 1987</h5>
+                                    <p>Incorporation of KMAFICS by Late Sh. Madan Mohan Lal Khullar and Mr. Ajaya Khullar in New Delhi</p>
+                                </div>
+
                             </div>
-                            <div class="desc">Setting up a commercial office space of a Spanish Company in Central India
+                            <!-- <div class="col-sm-4"></div> -->
+                            <div class="col-4 text-center">
+                                <!-- <div class="circle mt-c">2</div> -->
+                                <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c">
+                                <div class="service-border-box">
+                                    <h5>Year 1995</h5>
+                                    <p>Projects, set up and joint venture of OEM’s ranging from tobacco and cigarette, sporting equipment, 2 wheeler from Finland, Spain and USA in India.</p>
+                                </div>
+
+                            </div>
+                            <div class="col-2 text-center full-left d-inline-flex justify-content-center align-items-center">
+                                <!-- <div class="circle-right font-weight-bold">2</div> -->
                             </div>
                         </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2012</span>
-
+                        <!--path between 2-3-->
+                        <div class="row timeline">
+                            <div class="col-2">
+                                <div class="corner-left right-bottom"></div>
                             </div>
-                            <div class="desc">Setting up of the Sunehra Kal Foundation for the brighter future of our young generation
-
+                            <div class="col-8">
+                                <hr class="hr-top" />
                             </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2011</span>
-
-                            </div>
-                            <div class="desc">KMAFICS shifted to a bigger premises in Iris Park
+                            <div class="col-2">
+                                <div class="corner-right top-left"></div>
                             </div>
                         </div>
-                    </li>
-                    <!-- new -->
-                    <!-- Item 1 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2010</span>
 
+                        <!--third section-->
+                        <div class="row align-items-center how-it-works d-flex">
+                            <div class="col-2 text-center full-right d-inline-flex justify-content-center align-items-center">
+                                <!-- <div class="circle-left font-weight-bold">3</div> -->
                             </div>
-                            <div class="desc">Opening of Shri Madan Mohan Lal Khullar Dharmarth Sanstha (SMMLKDS), a private trust made in the memory of the Chiarman Emeritus to support underpriviledged senior citizens
+                            <div class="col-4 text-center">
+                                <!-- <div class="circle mt-c">3</div> -->
+                                <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c">
+                                <div class="service-border-box">
+                                    <h5>Year 2015</h5>
+                                    <p>Projects, set up and joint venture of companies ranging from sheet metal solutions, brake solutions, thermoformed plastic parts, casting and forging and information technology from Spain. Additionally, opened two social trusts and two office spaces for KMAFICS India.</p>
+
+                                </div>
+                            </div>
+
+
+                            <div class="col-4 text-center" style="    position: absolute;
+    right: 177px;
+    top: 303px;">
+                                <!-- <div class="circle mt-c">4</div> -->
+                                <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c">
+                                <div class="service-border-box">
+                                    <h5>Year 2005</h5>
+                                    <p>Projects, set up and joint venture of OEM’s ranging from telecom and mobile equipment, automotive homologation and testing, valves and weather forecasting from Finland and Spain along with the expansion of KMAFICS to a new facility.</p>
+                                </div>
                             </div>
                         </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2008.</span>
-                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
+                        <!--path between 1-2-->
+                        <div class="row timeline">
+                            <div class="col-2">
+                                <div class="corner-left top-right"></div>
                             </div>
-                            <div class="desc">Setting up of two factories of a Catalan company and a Basque Company in Central India and one factory of a Basque Company in South India
-                                .</div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2007</span>
-
+                            <div class="col-8">
+                                <hr class="hr-top" />
                             </div>
-                            <div class="desc">Expansion of KMAFICS with an office in Sushant Arcade, Gurugram
+                            <div class="col-2">
+                                <div class="corner-right left-bottom"></div>
                             </div>
                         </div>
-                    </li>
-                    <!--  -->
-                    <!-- Item 1 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2006</span>
-
-                            </div>
-                            <div class="desc">Setting up an office space of a Basque Company in North India
-                            </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2005</span>
-
-                            </div>
-                            <div class="desc">Setting up an office space of a Finnish Company in North India
+                        <!--Fourth section-->
+                        <div class="row align-items-center justify-content-end how-it-works d-flex">
+                            <div class="col-6 text-center">
+                                <!-- <div class="circle mt-c">5</div> -->
+                                <img src="<?php echo base_url('assets/css/flag.png') ?>" alt="flag" class="mt-c">
+                                <div class="service-border-box">
+                                    <h5>Year 2020</h5>
+                                    <p>Projects, set up and joint venture of companies in the field of sheet metal solutions along with a bigger set up for KMAFICS India. </p>
+                                </div>
                             </div>
                         </div>
-                    </li>
+                    </div>
+                </div>
 
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">2004</span>
-
-                            </div>
-                            <div class="desc">Setting up a factory of a Basque Company in South India
+                <!-- mobile timeline start -->
+                <div id="mobile">
+                    <div class="container mt-5 mb-5">
+                        <div class="row">
+                            <div class="col-md-6 offset-md-3">
+                                <h2>Milestone</h2>
+                                <ul class="timeline">
+                                    <li class="ml-5">
+                                        <h5>Year 1987</h5>
+                                        <p>Incorporation of KMAFICS by Late Sh. Madan Mohan Lal Khullar and Mr. Ajaya Khullar in New Delhi</p>
+                                    </li>
+                                    <li class="ml-5">
+                                        <h5>Year 1995</h5>
+                                        <p>Projects, set up and joint venture of OEM’s ranging from tobacco and cigarette, sporting equipment, 2 wheeler from Finland, Spain and USA in India.</p>
+                                    </li>
+                                    <li class="ml-5">
+                                        <h5>Year 2005</h5>
+                                        <p>Projects, set up and joint venture of OEM’s ranging from telecom and mobile equipment, automotive homologation and testing, valves and weather forecasting from Finland and Spain along with the expansion of KMAFICS to a new facility.</p>
+                                    </li>
+                                    <li class="ml-5">
+                                        <h5>Year 2015</h5>
+                                        <p>Projects, set up and joint venture of companies ranging from sheet metal solutions, brake solutions, thermoformed plastic parts, casting and forging and information technology from Spain. Additionally, opened two social trusts and two office spaces for KMAFICS India.</p>
+                                    </li>
+                                    <li class="ml-5">
+                                        <h5>Year 2020</h5>
+                                        <p>Projects, set up and joint venture of companies in the field of sheet metal solutions along with a bigger set up for KMAFICS India. </p>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
-                    </li>
-
-                    <!-- Item 4 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">2002</span>
-
-                            </div>
-                            <div class="desc">Opening of KMAFICS in Regency Park, Gurugram
-                            </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">1997</span>
-                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
-                            </div>
-                            <div class="desc">Project in India for an automotive homologation and testing company
-                            </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">1996</span>
-                                <!-- <span class="time-wrapper"><span class="time">2008 - 2011</span></span> -->
-                            </div>
-                            <div class="desc">Project in India for Finnish Telecom Giant (later a Global Brand) and Mobile Telephone manufacturer
-                            </div>
-                        </div>
-                    </li>
-                    <!-- new -->
-                    <!-- Item 1 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">1994</span>
-                                <!-- <span class="time-wrapper"><span class="time">2013 - present</span></span> -->
-                            </div>
-                            <div class="desc">First negotiations for a JV conducted on behalf of a Basque company in India
-                            </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">1992</span>
-                                <!-- <span class="time-wrapper"><span class="time">2011 - 2013</span></span> -->
-                            </div>
-                            <div class="desc">First project in India for an American sporting equipment brand.</div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">1991</span>
-                              
-                            </div>
-                            <div class="desc">Project in India for Finnish Tobacco and Ciggarette giant</div>
-                        </div>
-                    </li>
-                    <!--  -->
-                    <!-- Item 1 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">1989</span>
-
-                            </div>
-                            <div class="desc">First project in India for a Finnish cold storage manufacturer.</div>
-                        </div>
-                    </li>
-
-                    <!-- Item 2 -->
-                    <li>
-                        <div class="direction-l">
-                            <div class="flag-wrapper">
-                                <span class="flag">1988</span>
-                             
-                            </div>
-                            <div class="desc">First project in India for a Spanish 2 wheeler OEM
-                            </div>
-                        </div>
-                    </li>
-
-                    <!-- Item 3 -->
-                    <li>
-                        <div class="direction-r">
-                            <div class="flag-wrapper">
-                                <span class="flag">1987</span>
-                                <!-- <span class="time-wrapper"><span class="time">2008 - 2011</span></span> -->
-                            </div>
-                            <div class="desc">Incorporation of KMAFICS by Ajaya Khullar under able guidance of Late Sh. Madan Mohan Lal Khullar in New Delhi
-                            </div>
-                        </div>
-                    </li>
-
-
-                </ul>
+                    </div>
+                </div>
+                <!-- Mobile timeline end -->
             </div>
-
-
-
-
-
-
-
         </div>
         <!-- CONTENT END -->
+
+
+
+
+
+
+        <!------ Include the above in your HEAD tag ---------->

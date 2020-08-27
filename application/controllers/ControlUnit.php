@@ -45,8 +45,8 @@ class ControlUnit extends CI_Controller
 	{
 		$this->load->view('kmafics/layout/header2');
 		// $this->load->view('kmafics/layout/header2');
-		// $this->load->view('kmafics/pages/milestone');
-		$this->load->view('kmafics/pages/milestonenew copy');
+		$this->load->view('kmafics/pages/milestone');
+		// $this->load->view('kmafics/pages/milestonenew copy');
 
 		$this->load->view('kmafics/layout/footer2');
 	}

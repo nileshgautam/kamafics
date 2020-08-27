@@ -18,7 +18,7 @@
                         <ul class="wt-breadcrumb breadcrumb-style-2">
                             <li><a href="javascript:void(0);">Home</a></li>
                             <li>Services</li>
-                            <li>Joint ventures</li>
+                            <li>Joint Ventures</li>
 
                         </ul>
                     </div>
@@ -38,10 +38,10 @@
                     <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
-                            <div>Lorem ipsum dolor sit amet.</div>
+                            <div>Joint Ventures</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, ratione.!</h2>
+                        <h2>Shared Ownership, Shared Returns and Risks & Shared Governance</h2>
                     </div>
                     <!-- TITLE END-->
 
@@ -52,33 +52,41 @@
                                 <div class="wt-box service-box-1 bg-white">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Joint </span>
-                                        <span class="s-title-two">Ventures</span>
+                                        <span class="s-title-one"> <strong>Joint Ventures</strong></span>
                                     </div>
                                     <div class="service-box-content">
                                         <p>Setting up joint ventures and /or strategic alliances in India or overseas.</p>
+
+                                        <p>
+                                            We are determined to smoothen the process of India/Overseas market entry for companies looking to establish a strong foothold in India/overseas. </p>
+                                        <p>
+
+                                            This kind of alliance is generally characterized by shared ownership, shared returns and risks, and shared governance.</p>
+                                        <p>Companies typically pursue joint ventures for the following reasons:</p>
+                                        <ol class="ml-5">
+
+                                            <li>To access a new market, particularly emerging markets;</li>
+                                            <li>To gain scale efficiencies by combining assets and operations;</li>
+                                            <li>To share risk for major investments or projects;</li>
+                                            <li>To access skills and capabilities;</li>
+                                            <li>To reduce the cost of production;</li>
+                                        </ol>
+                                        <p>
+                                            We identify tailor-made partners for you, for a long term cooperation. Furthermore, we ourselves offer our services as a potential Joint Venture partner for you.
+                                        </p>
                                     </div>
-
-                                   
-
                                 </div>
                             </div>
                         </div>
-
-
-
                     </div>
                 </div>
             </div>
         </div>
         <!-- ALL SERVICES SECTION END -->
 
-      <!-- TESTIMONIAL SECTION START -->
-      <?php $this->load->view('kmafics/layout/testimonial');?>
-        <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
-      <?php $this->load->view('kmafics/layout/vision');?>
+        <?php $this->load->view('kmafics/layout/vision'); ?>
         <!-- VISION SECTION END -->
 
 

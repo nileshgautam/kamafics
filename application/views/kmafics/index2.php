@@ -756,7 +756,7 @@
                         <!--Block one-->
                         <div class="blog-post date-style-2">
                             <div class="wt-post-media wt-img-effect zoom-slow">
-                                <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/thum1.jpg" alt=""></a>
+                                <a href="javascript:;"><img src="<?php echo base_url() ?>assets/images/blog/default/i1.jpg" alt=""></a>
                             </div>
                             <div class="wt-post-info bg-white p-t30">
                                 <div class="wt-post-meta p-2">
@@ -791,7 +791,7 @@
                                     <h4 class="post-title">Evolution of workplaces during and after the pandemic.</h4>
                                 </div>
                                 <div class="wt-post-readmore ">
-                                    <a href="<?php echo base_url('about-us/forum-work') ?>" class="site-button-link black">Read More</a>
+                                    <a href="<?php echo base_url('about-us/forum-work-after-covid-19')?>" class="site-button-link black">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -802,8 +802,8 @@
                                 <div class="wt-post-meta ">
                                     <ul>
                                         <li class="post-category"><span>Global</span> </li>
-                                        <li class="post-date">February 28, 2020</li>
-                                        <li class="post-comment">24 Comment</li>
+                                        <li class="post-date">What is driving the market recovery?</li>
+                                        <!-- <li class="post-comment">24 Comment</li> -->
                                     </ul>
                                 </div>
                                 <div class="wt-post-title ">

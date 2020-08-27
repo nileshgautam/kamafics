@@ -36,10 +36,10 @@
                     <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
-                            <div>Lorem ipsum dolor sit amet.</div>
+                            <div>Quasi Legal Services</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, nesciunt?</h2>
+                        <h2>Providing legal support and support for corporate governance as per the laws laid down by the respective Government of the country</h2>
                     </div>
                     <!-- TITLE END-->
 
@@ -50,8 +50,8 @@
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Patents, Trademarks </span>
-                                        <span class="s-title-two"> and Copyright in India</span>
+                                        <span class="s-title-one"> <strong>Patents, Trademarks and Copyright</strong></span>
+                                        
                                     </div>
                                     <div class="service-box-content">
                                         <p>Filing, documentation and acquiring patents, trademarks and copyrights in India while mitigating the risk of infringement.
@@ -64,8 +64,8 @@
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Commercial and Intellectual </span>
-                                        <span class="s-title-two"> Property Rights in India</span>
+                                        <span class="s-title-one"><strong>Commercial and Intellectual Property Rights</strong></span>
+                                      
                                     </div>
                                     <div class="service-box-content">
                                         <p>Quasi-legal opinion on commercial and intellectual property rights and how to mitigate the risk on CPR/IPR infringement.
@@ -78,8 +78,8 @@
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white ">
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Drafting legal agreements and </span>
-                                        <span class="s-title-two"> or memorandums of understanding</span>
+                                        <span class="s-title-one text-bold"><strong>Drafting and legalizing legal agreements/memorandum of understanding</strong></span>
+                                    
                                     </div>
                                     <div class="service-box-content">
                                         <p>Providing end to end solutions from Drafting Legal Agreements, Memorandum of Understandings, Non Disclosure Agreement, Technology Transfer Agreement, Agency or Distribution Arrangement, representation of Institution or a cluster, sourcing agreement for parts and/or components from India, Technical cum License Agreement, Technological, License and Contract Manufacturing et cetera. to getting them notarized.</p>
@@ -97,11 +97,7 @@
 
         <!-- OUR PLAN US START -->
    
-        <!-- OUR PLAN US SECTION END -->
 
-        <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('kmafics/layout/testimonial');?>
-        <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
       <?php $this->load->view('kmafics/layout/vision');?>

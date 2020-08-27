@@ -36,10 +36,10 @@
                     <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
-                            <div>Lorem ipsum dolor sit amet.</div>
+                            <div>India Market Entry and Exit Solutions</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque.</h2>
+                        <h2>Ensuring a smooth entry and exit from India for overseas companies</h2>
                     </div>
                     <!-- TITLE END-->
 
@@ -47,20 +47,17 @@
 
                         <div class="col-lg-4 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
-                                <div class="wt-box service-box-1 bg-white mnh-480">
+                                <div class="wt-box service-box-1 bg-white">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Business </span>
-                                        <span class="s-title-two">Analysis</span>
+                                        <span class="s-title-one"><strong>Business</strong> </span>
+                                        <span class="s-title-two"><strong>Analysis</strong></span>
                                     </div>
-                                    <div class="service-box-content">
+                                    <div class="service-box-content" style="    min-height:240px;">
                                         <p>Identifying your business needs and providing you a solution through a thorough business analysis, tailor made for easing decision making. The analysis can be filtered according to sector, geography, industry, supply chain et cetera.
                                         </p>
 
                                     </div>
-
-
-
                                 </div>
                             </div>
                         </div>
@@ -69,10 +66,10 @@
                                 <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Customized India market entry </span>
-                                        <span class="s-title-two">strategy for overseas company</span>
+                                        <span class="s-title-one"> <strong> Customized India market entry strategy for overseas company</strong></span>
+                                        <!-- <span class="s-title-two"> </span> -->
                                     </div>
-                                    <div class="service-box-content">
+                                    <div class="service-box-content" style="    min-height:216px;">
                                         <p>Understanding your requirement and providing a seamless strategy and implementation to set up and commence operations in India with support ranging from personnel recruitment, land acquisiton/rental, M&A, construction of the premises et cetera.
                                         </p>
 
@@ -88,18 +85,15 @@
                                 <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Financial</span>
-                                        <span class="s-title-two">Analysis</span>
+                                        <span class="s-title-one"> <strong>Financial</strong> </span>
+                                        <span class="s-title-two"><strong>Analysis</strong></span>
                                     </div>
-                                    <div class="service-box-content">
+                                    <div class="service-box-content" style="    min-height:216px;">
                                         <p>An indepth financial analysis which answers to all your business uncertainities and including but not limited to financial feasibility for setting up in India or overseas, investment recovery forecast, profitability, solvency, liquidity, stability, competitive analysis, end user analysis, market access and regulatory business environment analysis et cetera.
 
                                         </p>
 
                                     </div>
-
-
-
                                 </div>
                             </div>
                         </div>
@@ -108,10 +102,10 @@
                                 <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Corporate Governance </span>
-                                        <span class="s-title-two">at the BOD Level in India</span>
+                                        <span class="s-title-one"><strong> Corporate Governance </strong></span>
+                                        <span class="s-title-two"><strong> at the BOD Level in India</strong></span>
                                     </div>
-                                    <div class="service-box-content">
+                                    <div class="service-box-content" style="    min-height:216px;">
                                         <p>Ensuring corporate governance as per the Indian Companies Act, 2013 at the level of the Board of Directors in India. Furthermore, we also cater to the day-to-day compliances as per the Indian Companies Act, 2013.
                                         </p>
 
@@ -127,12 +121,12 @@
                                 <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Search for an Indian Partner/
+                                        <span class="s-title-one"><strong>Search for an Indian Partner/Scan for Overseas</strong>
                                         </span>
-                                        <span class="s-title-two">Scan for Overseas Business Entities</span>
+                                        <span class="s-title-two"> <strong>Business Entities</strong></span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>We identify potential indian partner or scan a potential overseas partner for you to provide you an amicable entry to the Indian/overseas market which includes leading the negotiations on your behalf to create a win-win situation for all stakeholders.
+                                        <p>We identify potential Indian partner or scan a potential overseas partner for you to provide you an amicable entry to the Indian/overseas market which includes leading the negotiations on your behalf to create a win-win situation for all stakeholders.
                                         </p>
 
                                     </div>
@@ -147,10 +141,11 @@
                                 <div class="wt-box service-box-1 bg-white mnh-480">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Market research </span>
-                                        <span class="s-title-two">and quali-research</span>
+                                        <span class="s-title-one"><strong>Market research</strong>
+                                     </span>
+                                        <span class="s-title-two"><strong>and quali-research</strong></span>
                                     </div>
-                                    <div class="service-box-content">
+                                    <div class="service-box-content" style="    min-height:216px;">
                                         <p>Provide you an intrinsic, adept and accurate market research and quali-research reports consisting of data which can adapt to the parameters set by you.
                                         </p>
 
@@ -170,9 +165,6 @@
         <!-- ALL SERVICES SECTION END -->
 
 
-        <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('kmafics/layout/testimonial'); ?>
-        <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
         <?php $this->load->view('kmafics/layout/vision'); ?>

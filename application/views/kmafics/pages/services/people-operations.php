@@ -2,7 +2,7 @@
     <div class="page-content">
 
         <!-- INNER PAGE BANNER -->
-        <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/2.jpg')?>);">
+        <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(<?php echo base_url('assets/images/banner/2.jpg') ?>);">
             <div class="overlay-main site-bg-secondry opacity-07"></div>
             <div class="container">
                 <div class="wt-bnr-inr-entry">
@@ -17,7 +17,7 @@
                         <ul class="wt-breadcrumb breadcrumb-style-2">
                             <li><a href="javascript:void(0);">Home</a></li>
                             <li>Services</li>
-                            <li>People operation</li>
+                            <li>People Operation</li>
 
                         </ul>
                     </div>
@@ -37,10 +37,10 @@
                     <div class="section-head center wt-small-separator-outer text-center">
                         <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
-                            <div>Lorem ipsum dolor sit amet.</div>
+                            <div>People Operation</div>
                             <div class="sep-leaf-right"></div>
                         </div>
-                        <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae, vero.</h2>
+                        <h2>Managing your operations ranging from Production, Deliveries, Marketing, Human Resources et cetera.</h2>
                     </div>
                     <!-- TITLE END-->
 
@@ -51,11 +51,16 @@
                                 <div class="wt-box service-box-1 bg-white">
 
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Recruitment</span>
+                                        <span class="s-title-one text-bold"><strong>Recruitment</strong></span>
 
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Ensuring recruitment of personnel ranging from top positions for white collar employees to blue collar employees pan-India or overseas.</p>
+                                        <p>Taking responsibility and accountability to ensure the best person fits the shoe.</p>
+                                        <p>
+                                            Understanding your requirement and taking control of the complete process of identifying, attracting, screening, shortlisting, and interviewing, suitable candidates for jobs (project based/permanent) for you. Using testing structure which use psychometric analysis and AI based solutions to give you a third party feedback for your opinion.</p>
+                                        <p>
+                                            This includes handholding the personnel’s till the time of maturation in the firm and ranges from white collared employees, blue collared employee and contract employees.
+                                        </p>
                                     </div>
 
                                 </div>
@@ -64,15 +69,17 @@
                         <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
-
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                        <span class="s-title-one">Representation </span> <span class="s-title-one">
-                                            Operations Management</span>
-
+                                        <span class="s-title-one text-bold"><strong>Representation Operations Management</strong></span>
                                     </div>
                                     <div class="service-box-content">
-                                        <p>Our Team ensures seamless operations of your premises in India or overseas. Your premises, operated by us and aligned to your goals.
+                                        <p>Representation Operations Management, in other words, we offer our services for complete operations management wherein KMAFICS takes ownership of production, stores, dispatch & logistics, marketing, customer relationship management, sourcing, sales, finance & accounting, P/L account, human resources et cetera.
                                         </p>
+                                        <p>
+                                            For this, we aide in technological transfer to understand your operations in depth and implement the same within your premises in India/overseas with respect to standards laid down globally under the ISO/EN/IS/ANSI.
+                                            <p>
+                                                Our Team ensures seamless operations of your premises in India or overseas. Your premises, operated by us and aligned to your goals.
+                                            </p>
                                     </div>
 
                                 </div>
@@ -83,10 +90,6 @@
             </div>
         </div>
         <!-- ALL SERVICES SECTION END -->
-        <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('kmafics/layout/testimonial'); ?>
-        <!-- TESTIMONIAL SECTION END -->
-
         <!-- VISION SECTION START -->
         <?php $this->load->view('kmafics/layout/vision'); ?>
         <!-- VISION SECTION END -->

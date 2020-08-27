@@ -33,12 +33,12 @@
 
                     <!-- TITLE START-->
                     <div class="section-head center wt-small-separator-outer text-center">
-                        <div class="wt-small-separator site-text-primary">
+                        <!-- <div class="wt-small-separator site-text-primary">
                             <div class="sep-leaf-left"></div>
                             <div>Consulting and Advisory</div>
                             <div class="sep-leaf-right"></div>
-                        </div>
-                        <h2>Lorem ipsum dolor sit amet.</h2>
+                        </div> -->
+                        <!-- <h2>Lorem ipsum dolor sit amet.</h2> -->
                     </div>
                     <!-- TITLE END-->
 
@@ -47,12 +47,25 @@
                         <div class="col-lg-12 col-md-6 col-sm-12 m-b50">
                             <div class="service-border-box">
                                 <div class="wt-box service-box-1 bg-white">
-
                                     <div class="service-box-title title-style-2 site-text-secondry">
-                                    <span class="s-title-one">Consulting </span>
-                                        <span class="s-title-two">and Advisory</span>
+                                        <span class="s-title-one"><strong>Consulting and Advisory</strong> </span>
                                     </div>
                                     <div class="service-box-content">
+                                        <p>This is your disrupted world, and ours. Accelerating advances in technology and changes in business models are transforming the rules and risks of the game. Aggressive competition is coming from upstarts and unknowns. And whatever the customer wants, the customer gets.</p>
+
+                                        <p>Our professionals can help you identify and solve the challenges that stand in the way of your growth and progress. We will work with you as colleagues, shoulder-to-shoulder, until we have delivered the results that matter to you. Ideally, we create a better future for our clients and our people.</p>
+                                        <p>
+                                            We offer a range of services for consulting and advisory services ranging from five cores of a business:</p>
+                                        <ol class="ml-5">
+                                            <li>Strategy Consulting</li>
+                                            <li>Management Consulting</li>
+                                            <li>Operations Consulting</li>
+                                            <li>Financial Advisory Consulting</li>
+                                            <li>Human Resource Consulting</li>
+                                            <li>IT Consulting</li>
+
+                                        </ol>
+                                        <span>Our best interest is your interest.</span>
                                         <p>Leverage our expertise for your organisation to work smarter, grow faster, build an effective organisation, reduce cost, manage risk & regulation and leverage talent.</p>
                                     </div>
 
@@ -71,9 +84,6 @@
         <!-- ALL SERVICES SECTION END -->
 
 
-        <!-- TESTIMONIAL SECTION START -->
-        <?php $this->load->view('kmafics/layout/testimonial'); ?>
-        <!-- TESTIMONIAL SECTION END -->
 
         <!-- VISION SECTION START -->
         <?php $this->load->view('kmafics/layout/vision'); ?>

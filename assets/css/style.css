@@ -6604,7 +6604,6 @@ input[type=radio]:checked+label:before {
 	}
 }
 
-
 /*19.2 widget search custom*/
 
 .search-bx button {
@@ -15628,13 +15627,12 @@ textarea.form-control2 {
 	/* position: relative;
 	display: inline-block;
 	margin-left: -30px; */
-
 	font-size: 18px;
-    position: relative;
-    display: inline-block;
-    margin-left: 2px;
+	position: relative;
+	display: inline-block;
+	margin-left: 2px;
 	top: 35px;
-	color:#000;
+	color: #000;
 }
 
 .counter-outer .counter:after {
@@ -15642,13 +15640,12 @@ textarea.form-control2 {
 	position: absolute;
 	content: '+';
 	right: -30px; */
-
 	font-size: 18px;
-    position: absolute;
-    content: '+';
-    right: -12px;
-    top: -1px;
-    color: #000;
+	position: absolute;
+	content: '+';
+	right: -12px;
+	top: -1px;
+	color: #000;
 }
 
 .counter-outer span {
@@ -17437,13 +17434,17 @@ ol.commentlist li .star-rating {
 
 /* Custom */
 
-.mb-88{
-margin-bottom: -88px !important;
+.mh-370 {
+	min-height: 370px !important;
 }
 
-.know-more{
+.mb-88 {
+	margin-bottom: -88px !important;
+}
+
+.know-more {
 	left: auto;
-    display: flex;
+	display: flex;
 	justify-content: center;
 	font-size: 14px !important;
 }
@@ -17455,25 +17456,38 @@ margin-bottom: -88px !important;
 	box-shadow: 0 0 2px #888;
 	height: 100px;
 	width: 100px;
-    margin-left: 78px;
+	margin-left: 78px;
 	text-align: center;
 	/* color:black; */
-  }
-
+}
 
 .bg-top-cnt {
 	/* background-color: #dff1d9; */
-		background-color: #f8e8ef;
-
+	background-color: #f8e8ef;
 	/* background-image: linear-gradient(to right, #C3EBB7, rgba(25, 241, 187, 0.164)); */
 }
 
-.mb-41 {
-	margin-bottom: 41px !important;
+.mb-81 {
+	margin-bottom: 81px !important;
+}
+.mb-37 {
+	margin-bottom: 37px !important;
+}
+   
+
+.mb-44 {
+	margin-bottom: 44px !important;
+}
+.mb-135 {
+	margin-bottom: 135px !important;
 }
 
-.mn-133 {
-	min-height: 133px !important;
+
+.mb-0{
+	margin-bottom: 0 !important;
+}
+.mn-110 {
+	min-height: 110px !important;
 }
 
 .mn-110 {
@@ -17521,7 +17535,7 @@ margin-bottom: -88px !important;
 	background-image: linear-gradient(to right, #fff1f3, rgba(210, 248, 227, 0.164));
 }
 
-.p-20{
+.p-20 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 17px;
 	text-align: justify;

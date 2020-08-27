@@ -199,7 +199,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="<?php echo base_url('industries') ?>">Industries</a>
+                                    <a href="<?php echo base_url('industries') ?>">Industry</a>
 
                                 </li>
                                 <li><a href="<?php echo base_url('contact-us') ?>">Contact us</a></li>

@@ -1321,3 +1321,7 @@
 
 
         <!------ Include the above in your HEAD tag ---------->
+
+                <!-- TESTIMONIAL SECTION START -->
+        <!-- <?php $this->load->view('kmafics/layout/testimonial');?> -->
+        <!-- TESTIMONIAL SECTION END -->

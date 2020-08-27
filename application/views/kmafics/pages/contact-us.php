@@ -14,10 +14,10 @@
                                 <div class="section-head left wt-small-separator-outer">
                                     <div class="wt-small-separator site-text-primary">
                                         <div class="sep-leaf-left"></div>
-                                        <div>Contact Form</div>
-                                        <div class="sep-leaf-right"></div>
+                                        <div>Get in touch with us!</div>
+                                        <!-- <div class="sep-leaf-right"></div> -->
                                     </div>
-                                    <h2>Get In Touch</h2>
+                                    <p>Reach out to us and our team will be happy to assist you with your queries.</p>
                                 </div>
                                 <!-- TITLE END -->
 
@@ -53,7 +53,7 @@
                                     </div>
 
                                     <div class="col-md-12">
-                                        <button type="submit" class="site-button site-btn-effect">Submit Now</button>
+                                        <button type="submit" class="site-button site-btn-effect">Submit</button>
                                     </div>
 
                                 </div>
@@ -65,17 +65,20 @@
                                 <div class="contact-info-inner">
 
                                     <!-- TITLE START-->
-                                    <div class="section-head left wt-small-separator-outer">
+                                    <!-- <div class="section-head left wt-small-separator-outer">
                                         <div class="wt-small-separator site-text-primary">
                                             <div class="sep-leaf-left"></div>
                                             <div>Contact info</div>
                                             <div class="sep-leaf-right"></div>
                                         </div>
                                         <h2>Our Full Info</h2>
-                                    </div>
+                                    </div> -->
                                     <!-- TITLE END-->
 
-                                    <div class="contact-info-section" style="background-image:url(<?php echo base_url('assets/images/background/bg-map2.png') ?>);">
+                                    <div class="contact-info-section" style="background-image:url(<?php echo base_url('assets/images/background/bg-map2.png') ?>);
+                                    margin-top: 150px; 
+                                    padding: 42px;
+                                    ">
 
                                         <div class="wt-icon-box-wraper left m-b30">
 
@@ -100,18 +103,7 @@
                                                 <p><?php echo ADD ?></p>
                                             </div>
                                         </div>
-<!-- 
-                                        <div class="wt-icon-box-wraper left">
 
-                                            <div class="icon-content">
-                                                <h3 class="m-t0 site-text-primary">Opening Hours</h3>
-                                                <ul class="list-unstyled m-b0">
-                                                    <li>Mon-Fri: 9 am – 6 pm</li>
-                                                    <li>Saturday: 9 am – 4 pm</li>
-                                                    <li>Sunday: Closed</li>
-                                                </ul>
-                                            </div>
-                                        </div> -->
 
                                     </div>
 

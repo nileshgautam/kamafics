@@ -10,27 +10,27 @@
                                 <div>Vision & Value</div>
                                 <div  class="sep-leaf-right"></div>
                             </div>
-                            <h2>Lorem ipsum dolor sit amet.</h2>
+                            <!-- <h2>Lorem ipsum dolor sit amet.</h2> -->
                             <p>KMAFICS's vision is to be among the top management consulting companies helping overseas companies set up in India. We shall achieve this goal by being the preferred solution provider to the needs of our customers, by practicing respectful and ethical business practices, by being the employer of choice within the industry, and by providing superior returns to our investors.									
 									
 									
                                     </p>
                         </div>
                         <!-- TITLE END-->
-                        <div class="video-3-section-outer-bottom m-b30">
-                            <div class="video-section2-outer mfp-gallery">
+                        <div class="video-3-section-outer-bottom m-b50">
+                            <!-- <div class="video-section2-outer mfp-gallery">
                                 <div class="video-section">
                                      <a href="#" class="mfp-video play-now">
                                         <i class="icon fa fa-play"></i>
                                         <span class="ripple"></span>
                                     </a>                                              
                                 </div>	    
-                            </div>      
+                            </div>       -->
                         
                             <div class="video3-section-blockquote">
                                 <i class="fa fa-quote-left"></i>
-                                <span class="q-author-detail site-text-secondry title-style-2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis, facere.</span>
-                                <div class="q-author-name site-text-primary title-style-2">Ajay Khullar</div>
+                                <span class="q-author-detail site-text-secondry title-style-2">Our best interest is your interest</span>
+                                <div class="q-author-name site-text-primary title-style-2"> Ajaya Khullar</div>
                             </div>
                         </div>                                                                                  
                     </div>
