@@ -8,9 +8,9 @@
                 <ul>
 
                     <!-- SLIDE 1 -->
-                    <li data-index="rs-901" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-901" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.jpg" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.jpg" data-bgposition="center center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina />
+                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.png" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide1.png" data-bgposition="center center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina />
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 [ for overlay ] -->
                         <div class="tp-caption tp-shape tp-shapewrapper" id="slide-901-layer-0" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[
@@ -58,9 +58,9 @@
                     </li>
 
                     <!-- SLIDE 2 -->
-                    <li data-index="rs-902" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-902" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.jpg" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.jpg" data-bgposition="left center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina style="opacity: 0.2">
+                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.png" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide2.png" data-bgposition="left center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina style="opacity: 0.2">
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 2 [ Black Box ] -->
@@ -172,9 +172,9 @@
                     </li>
 
                     <!-- SLIDE 4 -->
-                    <li data-index="rs-904" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <li data-index="rs-904" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.png" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
-                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.jpg" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.jpg" data-bgposition="center center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina>
+                        <img src="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.png" alt="" data-lazyload="<?php echo base_url() ?>assets/images/main-slider/slider2/slide4.png" data-bgposition="center center" data-bgfit="cover" data-bgparallax="4" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
 
                         <!-- LAYER NR. 1 [ for overlay ] -->
